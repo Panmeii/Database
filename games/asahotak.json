@@ -1567,7 +1567,7 @@
     {
         "index": 337,
         "soal": "Negara mana yang memiliki mata uang Rupee selain India?",
-        "jawaban": "Indonesia (sebelum Rupiah)"
+        "jawaban": "Indonesia"
     },
     {
         "index": 338,
@@ -2129,7 +2129,6 @@
         "soal": "Siapa yang menemukan hukum Archimedes?",
         "jawaban": "Archimedes"
     },
-    [
     {
         "index": 450,
         "soal": "Apa nama ibukota Korea Selatan?",
@@ -2328,7 +2327,7 @@
     {
         "index": 489,
         "soal": "Apa nama ibu kota Afrika Selatan?",
-        "jawaban": "Pretoria (administratif), Cape Town (legislatif), Bloemfontein (yudikatif)"
+        "jawaban": "Pretoria"
     },
     {
         "index": 490,
@@ -2610,7 +2609,6 @@
         "soal": "Siapa yang menemukan listrik statis?",
         "jawaban": "Benjamin Franklin"
     },
-        [
     {
         "index": 546,
         "soal": "Apa nama ilmuwan yang menemukan hukum gravitasi?",
@@ -2644,7 +2642,7 @@
     {
         "index": 552,
         "soal": "Negara mana yang memiliki gunung berapi tertinggi di dunia?",
-        "jawaban": "Chili (Gunung Ojos del Salado)"
+        "jawaban": "Chili"
     },
     {
         "index": 553,
