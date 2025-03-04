@@ -1,1 +1,881 @@
-
+    {
+        "index": 25,
+        "soal": "Ibu kota negara Spanyol?",
+        "jawaban": "Madrid"
+    },
+    {
+        "index": 26,
+        "soal": "Hasil dari 12² - 5²?",
+        "jawaban": "119"
+    },
+    {
+        "index": 27,
+        "soal": "Planet dengan cincin paling mencolok di tata surya?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 28,
+        "soal": "Presiden pertama Indonesia?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 29,
+        "soal": "Organ terbesar pada tubuh manusia?",
+        "jawaban": "Kulit"
+    },
+    {
+        "index": 30,
+        "soal": "Penulis serial 'Harry Potter'?",
+        "jawaban": "J.K. Rowling"
+    },
+    {
+        "index": 31,
+        "soal": "Negara yang berbentuk seperti sepatu bot?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 32,
+        "soal": "20% dari 150 adalah?",
+        "jawaban": "30"
+    },
+    {
+        "index": 33,
+        "soal": "Hukum fisika yang menjelaskan kecenderungan benda mempertahankan keadaan diam/bergerak?",
+        "jawaban": "Hukum Inersia"
+    },
+    {
+        "index": 34,
+        "soal": "Unsur teringan dalam tabel periodik?",
+        "jawaban": "Hidrogen"
+    },
+    {
+        "index": 35,
+        "soal": "Hewan darat tercepat di dunia?",
+        "jawaban": "Cheetah"
+    },
+    {
+        "index": 36,
+        "soal": "Tanggal kemerdekaan Republik Indonesia?",
+        "jawaban": "17 Agustus 1945"
+    },
+    {
+        "index": 37,
+        "soal": "pH air murni pada suhu ruang?",
+        "jawaban": "7"
+    },
+    {
+        "index": 38,
+        "soal": "Pulau terbesar di dunia?",
+        "jawaban": "Greenland"
+    },
+    {
+        "index": 39,
+        "soal": "Hasil dari 2 pangkat 10?",
+        "jawaban": "1024"
+    },
+    {
+        "index": 40,
+        "soal": "Proses pembuatan makanan oleh tumbuhan menggunakan cahaya?",
+        "jawaban": "Fotosintesis"
+    },
+    {
+        "index": 41,
+        "soal": "Ibu kota Australia?",
+        "jawaban": "Canberra"
+    },
+    {
+        "index": 42,
+        "soal": "Gelombang yang lebih lambat dari cahaya?",
+        "jawaban": "Suara"
+    },
+    {
+        "index": 43,
+        "soal": "Penulis drama 'Romeo dan Juliet'?",
+        "jawaban": "William Shakespeare"
+    },
+    {
+        "index": 44,
+        "soal": "Logam cair pada suhu ruang?",
+        "jawaban": "Raksa (Merkuri)"
+    },
+    {
+        "index": 45,
+        "soal": "Negara dengan jumlah zona waktu terbanyak?",
+        "jawaban": "Prancis"
+    },
+    {
+        "index": 46,
+        "soal": "Manusia pertama yang menginjakkan kaki di Bulan?",
+        "jawaban": "Neil Armstrong"
+    },
+    {
+        "index": 47,
+        "soal": "Hasil dari 1000 ÷ 8?",
+        "jawaban": "125"
+    },
+    {
+        "index": 48,
+        "soal": "Fungsi sel darah merah?",
+        "jawaban": "Mengangkut oksigen"
+    },
+    {
+        "index": 49,
+        "soal": "Sungai terpanjang di dunia?",
+        "jawaban": "Sungai Nil"
+    }
+        {
+        "index": 50,
+        "soal": "Negara dengan populasi terbesar di dunia?",
+        "jawaban": "Cina"
+    },
+    {
+        "index": 51,
+        "soal": "Hasil dari 3³ + 4²?",
+        "jawaban": "43"
+    },
+    {
+        "index": 52,
+        "soal": "Nama lain dari vitamin B9?",
+        "jawaban": "Asam folat"
+    },
+    {
+        "index": 53,
+        "soal": "Ibukota provinsi Jawa Tengah?",
+        "jawaban": "Semarang"
+    },
+    {
+        "index": 54,
+        "soal": "Penemu telepon?",
+        "jawaban": "Alexander Graham Bell"
+    },
+    {
+        "index": 55,
+        "soal": "Hewan yang memiliki belalai panjang?",
+        "jawaban": "Gajah"
+    },
+    {
+        "index": 56,
+        "soal": "Negara dengan julukan 'Negeri Sakura'?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 57,
+        "soal": "Hasil dari 100 ÷ 4 × 5?",
+        "jawaban": "125"
+    },
+    {
+        "index": 58,
+        "soal": "Planet terbesar di tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 59,
+        "soal": "Penulis 'Habis Gelap Terbitlah Terang'?",
+        "jawaban": "R.A. Kartini"
+    },
+    {
+        "index": 60,
+        "soal": "Zat yang membuat daun berwarna hijau?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 61,
+        "soal": "Ibukota negara Thailand?",
+        "jawaban": "Bangkok"
+    },
+    {
+        "index": 62,
+        "soal": "Hasil dari 15 × 6 ÷ 3?",
+        "jawaban": "30"
+    },
+    {
+        "index": 63,
+        "soal": "Hewan yang memiliki kantong di perutnya?",
+        "jawaban": "Kanguru"
+    },
+    {
+        "index": 64,
+        "soal": "Negara dengan bendera merah putih?",
+        "jawaban": "Indonesia"
+    },
+    {
+        "index": 65,
+        "soal": "Penemu mesin uap?",
+        "jawaban": "James Watt"
+    },
+    {
+        "index": 66,
+        "soal": "Satuan dasar panjang dalam sistem metrik?",
+        "jawaban": "Meter"
+    },
+    {
+        "index": 67,
+        "soal": "Ibukota negara Malaysia?",
+        "jawaban": "Kuala Lumpur"
+    },
+    {
+        "index": 68,
+        "soal": "Hasil dari 10² + 5²?",
+        "jawaban": "125"
+    },
+    {
+        "index": 69,
+        "soal": "Hewan yang memiliki cangkang keras?",
+        "jawaban": "Kura-kura"
+    },
+    {
+        "index": 70,
+        "soal": "Negara dengan julukan 'Negeri Paman Sam'?",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "index": 71,
+        "soal": "Penemu teori gravitasi?",
+        "jawaban": "Isaac Newton"
+    },
+    {
+        "index": 72,
+        "soal": "Ibukota provinsi Jawa Timur?",
+        "jawaban": "Surabaya"
+    },
+    {
+        "index": 73,
+        "soal": "Hasil dari 8 × 7 - 12?",
+        "jawaban": "44"
+    },
+    {
+        "index": 74,
+        "soal": "Planet terkecil di tata surya?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 75,
+        "soal": "Penulis 'Negeri 5 Menara'?",
+        "jawaban": "Ahmad Fuadi"
+    },
+    {
+        "index": 76,
+        "soal": "Zat yang membuat darah berwarna merah?",
+        "jawaban": "Hemoglobin"
+    },
+    {
+        "index": 77,
+        "soal": "Ibukota negara Filipina?",
+        "jawaban": "Manila"
+    },
+    {
+        "index": 78,
+        "soal": "Hasil dari 12 × 5 ÷ 4?",
+        "jawaban": "15"
+    },
+    {
+        "index": 79,
+        "soal": "Hewan yang memiliki tanduk panjang?",
+        "jawaban": "Badak"
+    },
+    {
+        "index": 80,
+        "soal": "Negara dengan bendera merah dan putih salib?",
+        "jawaban": "Swiss"
+    },
+    {
+        "index": 81,
+        "soal": "Penemu radio?",
+        "jawaban": "Guglielmo Marconi"
+    },
+    {
+        "index": 82,
+        "soal": "Satuan dasar waktu dalam sistem metrik?",
+        "jawaban": "Detik"
+    },
+    {
+        "index": 83,
+        "soal": "Ibukota negara Vietnam?",
+        "jawaban": "Hanoi"
+    },
+    {
+        "index": 84,
+        "soal": "Hasil dari 9² - 7²?",
+        "jawaban": "32"
+    },
+    {
+        "index": 85,
+        "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang?",
+        "jawaban": "Penguin"
+    },
+    {
+        "index": 86,
+        "soal": "Negara dengan julukan 'Negeri Matahari Terbit'?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 87,
+        "soal": "Penemu teori evolusi?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 88,
+        "soal": "Ibukota provinsi Sumatera Barat?",
+        "jawaban": "Padang"
+    },
+    {
+        "index": 89,
+        "soal": "Hasil dari 6 × 8 + 10?",
+        "jawaban": "58"
+    },
+    {
+        "index": 90,
+        "soal": "Planet dengan suhu terpanas di tata surya?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 91,
+        "soal": "Penulis 'Bumi Manusia'?",
+        "jawaban": "Pramoedya Ananta Toer"
+    },
+    {
+        "index": 92,
+        "soal": "Zat yang membuat tulang kuat?",
+        "jawaban": "Kalsium"
+    },
+    {
+        "index": 93,
+        "soal": "Ibukota negara Singapura?",
+        "jawaban": "Singapura"
+    },
+    {
+        "index": 94,
+        "soal": "Hasil dari 20 × 3 ÷ 5?",
+        "jawaban": "12"
+    },
+    {
+        "index": 95,
+        "soal": "Hewan yang memiliki leher panjang?",
+        "jawaban": "Jerapah"
+    },
+    {
+        "index": 96,
+        "soal": "Negara dengan bendera merah dan putih?",
+        "jawaban": "Indonesia"
+    },
+    {
+        "index": 97,
+        "soal": "Penemu listrik?",
+        "jawaban": "Michael Faraday"
+    },
+    {
+        "index": 98,
+        "soal": "Satuan dasar massa dalam sistem metrik?",
+        "jawaban": "Kilogram"
+    },
+    {
+        "index": 99,
+        "soal": "Ibukota negara Kamboja?",
+        "jawaban": "Phnom Penh"
+    },
+    {
+        "index": 100,
+        "soal": "Negara dengan julukan 'Negeri Kiwi'?",
+        "jawaban": "Selandia Baru"
+    },
+    {
+        "index": 101,
+        "soal": "Hasil dari 15 × 4 - 20?",
+        "jawaban": "40"
+    },
+    {
+        "index": 102,
+        "soal": "Hewan yang memiliki cangkang spiral?",
+        "jawaban": "Siput"
+    },
+    {
+        "index": 103,
+        "soal": "Ibukota negara Jerman?",
+        "jawaban": "Berlin"
+    },
+    {
+        "index": 104,
+        "soal": "Penemu mesin cetak?",
+        "jawaban": "Johannes Gutenberg"
+    },
+    {
+        "index": 105,
+        "soal": "Satuan dasar arus listrik?",
+        "jawaban": "Ampere"
+    },
+    {
+        "index": 106,
+        "soal": "Ibukota provinsi Bali?",
+        "jawaban": "Denpasar"
+    },
+    {
+        "index": 107,
+        "soal": "Hasil dari 12 × 6 ÷ 3?",
+        "jawaban": "24"
+    },
+    {
+        "index": 108,
+        "soal": "Planet dengan cincin paling mencolok?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 109,
+        "soal": "Penulis 'Ayat-Ayat Cinta'?",
+        "jawaban": "Habiburrahman El Shirazy"
+    },
+    {
+        "index": 110,
+        "soal": "Zat yang membuat api menyala?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 111,
+        "soal": "Ibukota negara Kanada?",
+        "jawaban": "Ottawa"
+    },
+    {
+        "index": 112,
+        "soal": "Hasil dari 18 × 3 - 15?",
+        "jawaban": "39"
+    },
+    {
+        "index": 113,
+        "soal": "Hewan yang memiliki tanduk melingkar?",
+        "jawaban": "Kambing"
+    },
+    {
+        "index": 114,
+        "soal": "Negara dengan bendera merah dan putih berlambang daun maple?",
+        "jawaban": "Kanada"
+    },
+    {
+        "index": 115,
+        "soal": "Penemu pesawat terbang?",
+        "jawaban": "Wright Bersaudara"
+    },
+    {
+        "index": 116,
+        "soal": "Satuan dasar suhu dalam sistem metrik?",
+        "jawaban": "Kelvin"
+    },
+    {
+        "index": 117,
+        "soal": "Ibukota negara Brasil?",
+        "jawaban": "Brasília"
+    },
+    {
+        "index": 118,
+        "soal": "Hasil dari 20 × 5 ÷ 4?",
+        "jawaban": "25"
+    },
+    {
+        "index": 119,
+        "soal": "Hewan yang memiliki sayap transparan?",
+        "jawaban": "Capung"
+    },
+    {
+        "index": 120,
+        "soal": "Negara dengan julukan 'Negeri Tirai Bambu'?",
+        "jawaban": "Cina"
+    },
+    {
+        "index": 121,
+        "soal": "Penemu teori relativitas umum?",
+        "jawaban": "Albert Einstein"
+    },
+    {
+        "index": 122,
+        "soal": "Ibukota provinsi Sumatera Utara?",
+        "jawaban": "Medan"
+    },
+    {
+        "index": 123,
+        "soal": "Hasil dari 25 × 4 - 30?",
+        "jawaban": "70"
+    },
+    {
+        "index": 124,
+        "soal": "Planet dengan suhu terdingin di tata surya?",
+        "jawaban": "Neptunus"
+    },
+    {
+        "index": 125,
+        "soal": "Penulis 'Laskar Pelangi'?",
+        "jawaban": "Andrea Hirata"
+    },
+    {
+        "index": 126,
+        "soal": "Zat yang membuat air asin?",
+        "jawaban": "Natrium klorida"
+    },
+    {
+        "index": 127,
+        "soal": "Ibukota negara Argentina?",
+        "jawaban": "Buenos Aires"
+    },
+    {
+        "index": 128,
+        "soal": "Hasil dari 30 × 3 ÷ 5?",
+        "jawaban": "18"
+    },
+    {
+        "index": 129,
+        "soal": "Hewan yang memiliki kulit berduri?",
+        "jawaban": "Landak"
+    },
+    {
+        "index": 130,
+        "soal": "Negara dengan bendera merah dan putih berlambang bintang?",
+        "jawaban": "Turki"
+    },
+    {
+        "index": 131,
+        "soal": "Penemu telepon seluler?",
+        "jawaban": "Martin Cooper"
+    },
+    {
+        "index": 132,
+        "soal": "Satuan dasar intensitas cahaya?",
+        "jawaban": "Candela"
+    },
+    {
+        "index": 133,
+        "soal": "Ibukota negara Afrika Selatan?",
+        "jawaban": "Pretoria"
+    },
+    {
+        "index": 134,
+        "soal": "Hasil dari 40 × 2 - 15?",
+        "jawaban": "65"
+    },
+    {
+        "index": 135,
+        "soal": "Hewan yang memiliki belalai panjang?",
+        "jawaban": "Gajah"
+    },
+    {
+        "index": 136,
+        "soal": "Negara dengan julukan 'Negeri 1001 Malam'?",
+        "jawaban": "Arab Saudi"
+    },
+    {
+        "index": 137,
+        "soal": "Penemu teori atom?",
+        "jawaban": "John Dalton"
+    },
+    {
+        "index": 138,
+        "soal": "Ibukota provinsi Kalimantan Barat?",
+        "jawaban": "Pontianak"
+    },
+    {
+        "index": 139,
+        "soal": "Hasil dari 50 × 2 ÷ 5?",
+        "jawaban": "20"
+    },
+    {
+        "index": 140,
+        "soal": "Planet dengan rotasi tercepat di tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 141,
+        "soal": "Penulis 'Perahu Kertas'?",
+        "jawaban": "Dee Lestari"
+    },
+    {
+        "index": 142,
+        "soal": "Zat yang membuat udara segar?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 143,
+        "soal": "Ibukota negara Meksiko?",
+        "jawaban": "Mexico City"
+    },
+    {
+        "index": 144,
+        "soal": "Hasil dari 60 × 3 ÷ 6?",
+        "jawaban": "30"
+    },
+    {
+        "index": 145,
+        "soal": "Hewan yang memiliki kulit berwarna-warni?",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 146,
+        "soal": "Negara dengan bendera merah dan putih berlambang bulan sabit?",
+        "jawaban": "Turki"
+    },
+    {
+        "index": 147,
+        "soal": "Penemu mesin diesel?",
+        "jawaban": "Rudolf Diesel"
+    },
+    {
+        "index": 148,
+        "soal": "Satuan dasar jumlah zat?",
+        "jawaban": "Mol"
+    },
+    {
+        "index": 149,
+        "soal": "Ibukota negara Rusia?",
+        "jawaban": "Moskow"
+    },
+    {
+        "index": 150,
+        "soal": "Hasil dari 70 × 2 - 50?",
+        "jawaban": "90"
+    },
+    {
+        "index": 151,
+        "soal": "Hewan yang memiliki sayap terbesar?",
+        "jawaban": "Albatros"
+    },
+    {
+        "index": 152,
+        "soal": "Negara dengan julukan 'Negeri Paman Sam'?",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "index": 153,
+        "soal": "Penemu teori kuantum?",
+        "jawaban": "Max Planck"
+    },
+    {
+        "index": 154,
+        "soal": "Ibukota provinsi Kalimantan Timur?",
+        "jawaban": "Samarinda"
+    },
+    {
+        "index": 155,
+        "soal": "Hasil dari 80 × 3 ÷ 4?",
+        "jawaban": "60"
+    },
+    {
+        "index": 156,
+        "soal": "Planet dengan satelit terbanyak?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 157,
+        "soal": "Penulis 'Ronggeng Dukuh Paruk'?",
+        "jawaban": "Ahmad Tohari"
+    },
+    {
+        "index": 158,
+        "soal": "Zat yang membuat air mendidih?",
+        "jawaban": "Kalor"
+    },
+    {
+        "index": 159,
+        "soal": "Ibukota negara India?",
+        "jawaban": "New Delhi"
+    },
+    {
+        "index": 160,
+        "soal": "Hasil dari 90 × 2 ÷ 3?",
+        "jawaban": "60"
+    },
+    {
+        "index": 161,
+        "soal": "Hewan yang memiliki kulit berwarna hitam-putih?",
+        "jawaban": "Panda"
+    },
+    {
+        "index": 162,
+        "soal": "Negara dengan bendera merah dan putih berlambang bintang dan bulan sabit?",
+        "jawaban": "Pakistan"
+    },
+    {
+        "index": 163,
+        "soal": "Penemu mesin uap modern?",
+        "jawaban": "James Watt"
+    },
+    {
+        "index": 164,
+        "soal": "Satuan dasar waktu dalam sistem internasional?",
+        "jawaban": "Detik"
+    },
+    {
+        "index": 165,
+        "soal": "Ibukota negara Inggris?",
+        "jawaban": "London"
+    },
+    {
+        "index": 166,
+        "soal": "Hasil dari 100 × 2 - 80?",
+        "jawaban": "120"
+    },
+    {
+        "index": 167,
+        "soal": "Hewan yang memiliki kulit berwarna oranye-hitam?",
+        "jawaban": "Harimau"
+    },
+    {
+        "index": 168,
+        "soal": "Negara dengan julukan 'Negeri Kanguru'?",
+        "jawaban": "Australia"
+    },
+    {
+        "index": 169,
+        "soal": "Penemu teori seleksi alam?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 170,
+        "soal": "Ibukota provinsi Sulawesi Selatan?",
+        "jawaban": "Makassar"
+    },
+    {
+        "index": 171,
+        "soal": "Hasil dari 110 × 2 ÷ 4?",
+        "jawaban": "55"
+    },
+    {
+        "index": 172,
+        "soal": "Planet dengan atmosfer tertebal?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 173,
+        "soal": "Penulis 'Sang Pemimpi'?",
+        "jawaban": "Andrea Hirata"
+    },
+    {
+        "index": 174,
+        "soal": "Zat yang membuat es mencair?",
+        "jawaban": "Kalor"
+    },
+    {
+        "index": 175,
+        "soal": "Ibukota negara Prancis?",
+        "jawaban": "Paris"
+    },
+    {
+        "index": 176,
+        "soal": "Hasil dari 120 × 3 ÷ 6?",
+        "jawaban": "60"
+    },
+    {
+        "index": 177,
+        "soal": "Hewan yang memiliki kulit berwarna coklat-hitam?",
+        "jawaban": "Beruang"
+    },
+    {
+        "index": 178,
+        "soal": "Negara dengan bendera merah dan putih berlambang matahari?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 179,
+        "soal": "Penemu mesin uap pertama?",
+        "jawaban": "Thomas Newcomen"
+    },
+    {
+        "index": 180,
+        "soal": "Satuan dasar panjang dalam sistem internasional?",
+        "jawaban": "Meter"
+    },
+    {
+        "index": 181,
+        "soal": "Ibukota negara Italia?",
+        "jawaban": "Roma"
+    },
+    {
+        "index": 182,
+        "soal": "Hasil dari 130 × 2 - 100?",
+        "jawaban": "160"
+    },
+    {
+        "index": 183,
+        "soal": "Hewan yang memiliki kulit berwarna hijau?",
+        "jawaban": "Katak"
+    },
+    {
+        "index": 184,
+        "soal": "Negara dengan julukan 'Negeri Gajah Putih'?",
+        "jawaban": "Thailand"
+    },
+    {
+        "index": 185,
+        "soal": "Penemu teori relativitas khusus?",
+        "jawaban": "Albert Einstein"
+    },
+    {
+        "index": 186,
+        "soal": "Ibukota provinsi Nusa Tenggara Barat?",
+        "jawaban": "Mataram"
+    },
+    {
+        "index": 187,
+        "soal": "Hasil dari 140 × 3 ÷ 7?",
+        "jawaban": "60"
+    },
+    {
+        "index": 188,
+        "soal": "Planet dengan satelit alami terbesar?",
+        "jawaban": "Bumi"
+    },
+    {
+        "index": 189,
+        "soal": "Penulis 'Cinta di Dalam Gelas'?",
+        "jawaban": "Andrea Hirata"
+    },
+    {
+        "index": 190,
+        "soal": "Zat yang membuat udara kering?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 191,
+        "soal": "Ibukota negara Spanyol?",
+        "jawaban": "Madrid"
+    },
+    {
+        "index": 192,
+        "soal": "Hasil dari 150 × 2 ÷ 5?",
+        "jawaban": "60"
+    },
+    {
+        "index": 193,
+        "soal": "Hewan yang memiliki kulit berwarna biru?",
+        "jawaban": "Burung biru"
+    },
+    {
+        "index": 194,
+        "soal": "Negara dengan bendera merah dan putih berlambang bintang dan bulan sabit?",
+        "jawaban": "Malaysia"
+    },
+    {
+        "index": 195,
+        "soal": "Penemu mesin uap pertama?",
+        "jawaban": "Thomas Newcomen"
+    },
+    {
+        "index": 196,
+        "soal": "Satuan dasar massa dalam sistem internasional?",
+        "jawaban": "Kilogram"
+    },
+    {
+        "index": 197,
+        "soal": "Ibukota negara Yunani?",
+        "jawaban": "Athena"
+    },
+    {
+        "index": 198,
+        "soal": "Hasil dari 160 × 2 - 120?",
+        "jawaban": "200"
+    },
+    {
+        "index": 199,
+        "soal": "Hewan yang memiliki kulit berwarna merah?",
+        "jawaban": "Kepiting"
+    },
+    {
+        "index": 200,
+        "soal": "Negara dengan julukan 'Negeri Tulip'?",
+        "jawaban": "Belanda"
+    }
+]
