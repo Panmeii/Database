@@ -1,881 +1,2849 @@
+[
+    {
+        "index": 0,
+        "soal": "Hewan sejenis kadal yang dapat merubah warna kulitnya?",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 1,
+        "soal": "Hewan sejenis kadal yang dapat merubah warna kulitnya?",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 2,
+        "soal": "Surat instruksi kepada Soeharto untuk mengambil alih keamanan Indonesia pada tanggal 11 Maret 1966?",
+        "jawaban": "Supersemar"
+    },
+    {
+        "index": 3,
+        "soal": "Sungai terpanjang di Benua Amerika?",
+        "jawaban": "Amazon"
+    },
+    {
+        "index": 4,
+        "soal": "Wanita yang tercatat dalam sejarah sebagai penjahit Bendera Pusaka Indonesia?",
+        "jawaban": "Fatmawati"
+    },
+    {
+        "index": 5,
+        "soal": "Lomba lari jarak jauh sepanjang 42,195 km?",
+        "jawaban": "Marathon"
+    },
+    {
+        "index": 6,
+        "soal": "Garis yang membagi Bumi menjadi dua bagian belahan utara dan belahan selatan?",
+        "jawaban": "Khatulistiwa"
+    },
+    {
+        "index": 7,
+        "soal": "Kota yang berdiri sejak tahun 682 ini disebut sebagai kota tertua di Indonesia?",
+        "jawaban": "Palembang"
+    },
+    {
+        "index": 8,
+        "soal": "Sebutan untuk gaya tarik-menarik yang terjadi di alam semesta termasuk Bumi?",
+        "jawaban": "Gravitasi"
+    },
+    {
+        "index": 9,
+        "soal": "Nama film yang bercerita tentang robot yang dapat berubah menjadi kendaran?",
+        "jawaban": "Transformers"
+    },
+    {
+        "index": 10,
+        "soal": "Petarung di zaman Romawi Kuno yang melakukan pertarungan untuk hiburan umum?",
+        "jawaban": "Gladiator"
+    },
+    {
+        "index": 11,
+        "soal": "Nama kapal penumpang mewah yang tenggelam saat pelayaran perdana tahun 1912?",
+        "jawaban": "Titanic"
+    },
+    {
+        "index": 12,
+        "soal": "Klub sepak bola dari Italia yang memiliki julukan Nyonya Tua?",
+        "jawaban": "Juventus"
+    },
+    {
+        "index": 13,
+        "soal": "Mekanisme sistem pemerintahan negara yang berdasarkan kehendak rakyat?",
+        "jawaban": "Demokrasi"
+    },
+    {
+        "index": 14,
+        "soal": "Nama kesenian drama tari tradisional yang khas dari Bali?",
+        "jawaban": "Kecak"
+    },
+    {
+        "index": 15,
+        "soal": "Nama mata uang yang digunakan di negara Rusia?",
+        "jawaban": "Rubel"
+    },
+    {
+        "index": 16,
+        "soal": "Ilmu alam yang mengamati benda langit serta fenomena di luar atmosfer Bumi?",
+        "jawaban": "Astronomi"
+    },
+    {
+        "index": 17,
+        "soal": "Kaisar Prancis yang menguasai Benua Eropa pada tahun 1803-1815?",
+        "jawaban": "Napoleon"
+    },
+    {
+        "index": 18,
+        "soal": "Seniman terkenal dunia dari Spanyol dengan aliran seni bernama kubisme?",
+        "jawaban": "Picasso"
+    },
+    {
+        "index": 19,
+        "soal": "Nama panglima tertinggi Pasukan Sekutu pada Perang dunia II?",
+        "jawaban": "Eisenhower"
+    },
+    {
+        "index": 20,
+        "soal": "Senjata fiksi dalam dunia Star Wars, digunakan oleh Jedi dan Sith?",
+        "jawaban": "Lightsaber"
+    },
+    {
+        "index": 21,
+        "soal": "Nama semenanjung di Eropa dimana terdapat negara Norwegia dan Swedia?",
+        "jawaban": "Skandinavia"
+    },
+    {
+        "index": 22,
+        "soal": "Stadion sepak bola di London yang juga markas utama klub Arsenal FC?",
+        "jawaban": "Emirates"
+    },
+    {
+        "index": 23,
+        "soal": "Penyanyi wanita terkenal dunia, dulu berada dalam grup Destiny’s Child?",
+        "jawaban": "Beyonce"
+    },
+    {
+        "index": 24,
+        "soal": "Istilah untuk sebuah kepercayaan bahwa Tuhan adalah satu atau tunggal?",
+        "jawaban": "Monoteisme"
+    },
     {
         "index": 25,
-        "soal": "Ibu kota negara Spanyol?",
-        "jawaban": "Madrid"
+        "soal": "Nama kerajaan dimana rajanya menjadi wakil Gubernur DI Yogyakarta saat ini?",
+        "jawaban": "Pakualaman"
     },
     {
         "index": 26,
-        "soal": "Hasil dari 12² - 5²?",
-        "jawaban": "119"
+        "soal": "Disebut sebagai salah satu matematikawan terbesar sejarah, lahir pada 287 SM?",
+        "jawaban": "Archimedes"
     },
     {
         "index": 27,
-        "soal": "Planet dengan cincin paling mencolok di tata surya?",
-        "jawaban": "Saturnus"
+        "soal": "Rangkaian pegunungan tertinggi di Indonesia, terletak di Pulau Papua?",
+        "jawaban": "Jayawijaya"
     },
     {
         "index": 28,
-        "soal": "Presiden pertama Indonesia?",
-        "jawaban": "Soekarno"
+        "soal": "Kelompok fiksi superhero yang terdiri dari Iron Man, Captain America, Hulk, Thor?",
+        "jawaban": "Avengers"
     },
     {
         "index": 29,
-        "soal": "Organ terbesar pada tubuh manusia?",
-        "jawaban": "Kulit"
+        "soal": "Nama wilayah luas di Rusia, meliputi hampir seluruh wilayah Asia Utara?",
+        "jawaban": "Siberia"
     },
     {
         "index": 30,
-        "soal": "Penulis serial 'Harry Potter'?",
-        "jawaban": "J.K. Rowling"
+        "soal": "Suatu benda atau media yang menghantarkan arus listrik dengan mudah?",
+        "jawaban": "Konduktor"
     },
     {
         "index": 31,
-        "soal": "Negara yang berbentuk seperti sepatu bot?",
-        "jawaban": "Italia"
+        "soal": "Nama bahasa yang digunakan di Iran, Tajikistan, Afganistan, dan Uzbekistan?",
+        "jawaban": "Farsi"
     },
     {
         "index": 32,
-        "soal": "20% dari 150 adalah?",
-        "jawaban": "30"
+        "soal": "Daerah dimana terdapat praktik pertanian pertama sekitar tahun 8000 SM?",
+        "jawaban": "Mesopotamia"
     },
     {
         "index": 33,
-        "soal": "Hukum fisika yang menjelaskan kecenderungan benda mempertahankan keadaan diam/bergerak?",
-        "jawaban": "Hukum Inersia"
+        "soal": "Ideologi yang berdasarkan pada prinsip kepemimpinan dengan otoritas absolut?",
+        "jawaban": "Fasisme"
     },
     {
         "index": 34,
-        "soal": "Unsur teringan dalam tabel periodik?",
-        "jawaban": "Hidrogen"
+        "soal": "Nama periode geologi dari 252 ke 66 juta tahun yang lalu, disebut juga Zaman Reptil?",
+        "jawaban": "Mesozoikum"
     },
     {
         "index": 35,
-        "soal": "Hewan darat tercepat di dunia?",
-        "jawaban": "Cheetah"
+        "soal": "Nama yang dikenal dalam legenda Jawab sebagai arsitek perancang Candi Borobudur?",
+        "jawaban": "Gunadharma"
     },
     {
         "index": 36,
-        "soal": "Tanggal kemerdekaan Republik Indonesia?",
-        "jawaban": "17 Agustus 1945"
+        "soal": "Tarian tradisional Tionghoa yang menggunakan kostum menyerupai singa",
+        "jawaban": "Barongsai"
     },
     {
         "index": 37,
-        "soal": "pH air murni pada suhu ruang?",
-        "jawaban": "7"
+        "soal": "Istilah yang artinya perpindahan penduduk dari desa ke kota?",
+        "jawaban": "Urbanisasi"
     },
     {
         "index": 38,
-        "soal": "Pulau terbesar di dunia?",
-        "jawaban": "Greenland"
+        "soal": "Grup musik terkenal tahun 1970an asal Bandung, personelnya tiga bersaudara?",
+        "jawaban": "Bimbo"
     },
     {
         "index": 39,
-        "soal": "Hasil dari 2 pangkat 10?",
-        "jawaban": "1024"
+        "soal": "Nama film aksi laga Indonesia tahun 2009 yang dibintangi oleh Iko Uwais?",
+        "jawaban": "Merantau"
     },
     {
         "index": 40,
-        "soal": "Proses pembuatan makanan oleh tumbuhan menggunakan cahaya?",
-        "jawaban": "Fotosintesis"
+        "soal": "Dikenal sebagai “maestro keroncong Indonesia”, pencipta lagu Bengawan Solo?",
+        "jawaban": "Gesang"
     },
     {
         "index": 41,
-        "soal": "Ibu kota Australia?",
-        "jawaban": "Canberra"
+        "soal": "Skala suhu dimana titik beku air berada pada 0 derajat dan titik didih pada 100 derajat?",
+        "jawaban": "Celcius"
     },
     {
         "index": 42,
-        "soal": "Gelombang yang lebih lambat dari cahaya?",
-        "jawaban": "Suara"
+        "soal": "Makhluk halus mitos Jawa, berwujud manusia mirip kera, bertubuh besar dan berbulu?",
+        "jawaban": "Genderuwo"
     },
     {
         "index": 43,
-        "soal": "Penulis drama 'Romeo dan Juliet'?",
-        "jawaban": "William Shakespeare"
+        "soal": "Sebuah distrik di Los Angeles yang terkenal dengan industri perfilmannya yang mendunia?",
+        "jawaban": "Hollywood"
     },
     {
         "index": 44,
-        "soal": "Logam cair pada suhu ruang?",
-        "jawaban": "Raksa (Merkuri)"
+        "soal": "Cabang biologi yang mempelajari pewarisan sifat pada organisme maupun suborganisme?",
+        "jawaban": "Genetika"
     },
     {
         "index": 45,
-        "soal": "Negara dengan jumlah zona waktu terbanyak?",
-        "jawaban": "Prancis"
+        "soal": "Situs manusia purba di Jawa Tengah, juga merupakan Situs Warisan Dunia UNESCO?",
+        "jawaban": "Sangiran"
     },
     {
         "index": 46,
-        "soal": "Manusia pertama yang menginjakkan kaki di Bulan?",
-        "jawaban": "Neil Armstrong"
+        "soal": "Bongkahan batu yang berukuran lebih kecil daripada planet, mengorbit Matahari?",
+        "jawaban": "Asteroid"
     },
     {
         "index": 47,
-        "soal": "Hasil dari 1000 ÷ 8?",
-        "jawaban": "125"
+        "soal": "Istilah untuk hewan pemakan rerumputan atau tumbuhan?",
+        "jawaban": "Herbivora"
     },
     {
         "index": 48,
-        "soal": "Fungsi sel darah merah?",
-        "jawaban": "Mengangkut oksigen"
+        "soal": "Istilah yang berarti pembantaian sistematis terhadap suatu suku atau kelompok?",
+        "jawaban": "Genosida"
     },
     {
         "index": 49,
-        "soal": "Sungai terpanjang di dunia?",
-        "jawaban": "Sungai Nil"
-    }
-        {
+        "soal": "Nama penyakit demam yang ditularkan oleh nyamuk Anopheles betina?",
+        "jawaban": "Malaria"
+    },
+    {
         "index": 50,
-        "soal": "Negara dengan populasi terbesar di dunia?",
-        "jawaban": "Cina"
+        "soal": "Nama tokoh fiksi budaya Sunda yang sifatnya lucu, polos, tetapi sekaligus cerdas?",
+        "jawaban": "Kabayan"
     },
     {
         "index": 51,
-        "soal": "Hasil dari 3³ + 4²?",
-        "jawaban": "43"
+        "soal": "Asrama tempat belajar para siswa santri yang dibimbin oleh Kiai?",
+        "jawaban": "Pesantren"
     },
     {
         "index": 52,
-        "soal": "Nama lain dari vitamin B9?",
-        "jawaban": "Asam folat"
+        "soal": "Perusahaan video game dari Jepang, pencipta Mario Bros dan Pokemon?",
+        "jawaban": "Nintendo"
     },
     {
         "index": 53,
-        "soal": "Ibukota provinsi Jawa Tengah?",
-        "jawaban": "Semarang"
+        "soal": "Sebuah agama resmi di Indonesia yang berdasarkan pada ajaran Konfusius?",
+        "jawaban": "Khong hu cu"
     },
     {
         "index": 54,
-        "soal": "Penemu telepon?",
-        "jawaban": "Alexander Graham Bell"
+        "soal": "Nama ensiklopedia online yang bebas ditulis dan disunting oleh siapa saja?",
+        "jawaban": "Wikipedia"
     },
     {
         "index": 55,
-        "soal": "Hewan yang memiliki belalai panjang?",
-        "jawaban": "Gajah"
+        "soal": "Bangun datar segi empat, sepasang sisi sejajar namun tidak sama panjang?",
+        "jawaban": "Trapesium"
     },
     {
         "index": 56,
-        "soal": "Negara dengan julukan 'Negeri Sakura'?",
-        "jawaban": "Jepang"
+        "soal": "Penyakit dimana hormon pengatur gula dara dari tubuh tidak mencukupi?",
+        "jawaban": "Diabetes"
     },
     {
         "index": 57,
-        "soal": "Hasil dari 100 ÷ 4 × 5?",
-        "jawaban": "125"
+        "soal": "Negara independen terkecil di dunia yang diakui secara internasional?",
+        "jawaban": "Vatikan"
     },
     {
         "index": 58,
-        "soal": "Planet terbesar di tata surya?",
-        "jawaban": "Jupiter"
+        "soal": "Kekaisaran kuno di wilayah Yunani yang dipimpin oleh Aleksander Agung?",
+        "jawaban": "Makedonia"
     },
     {
         "index": 59,
-        "soal": "Penulis 'Habis Gelap Terbitlah Terang'?",
-        "jawaban": "R.A. Kartini"
+        "soal": "Negara dengan jumlah penduduk Muslim terbanyak kedua di dunia?",
+        "jawaban": "Pakistan"
     },
     {
         "index": 60,
-        "soal": "Zat yang membuat daun berwarna hijau?",
-        "jawaban": "Klorofil"
+        "soal": "Gejala penurunan fungsi otak, umumnya terjadi pada usia lanjut?",
+        "jawaban": "Demensia"
     },
     {
         "index": 61,
-        "soal": "Ibukota negara Thailand?",
-        "jawaban": "Bangkok"
+        "soal": "Bahan bakar fosil, digunakan di Pembangkit Listrik Tenaga Uap?",
+        "jawaban": "Batu bara"
     },
     {
         "index": 62,
-        "soal": "Hasil dari 15 × 6 ÷ 3?",
-        "jawaban": "30"
+        "soal": "Nama pura terkenal di Bali yang dibangun pada ujung batu karang?",
+        "jawaban": "Uluwatu"
     },
     {
         "index": 63,
-        "soal": "Hewan yang memiliki kantong di perutnya?",
-        "jawaban": "Kanguru"
+        "soal": "Sebuah gelar yang diperoleh putra Sultan Agung dari Mataram?",
+        "jawaban": "Amangkurat"
     },
     {
         "index": 64,
-        "soal": "Negara dengan bendera merah putih?",
-        "jawaban": "Indonesia"
+        "soal": "Seorang yang bertugas merawat bayi atau anak pada suatu keluarga?",
+        "jawaban": "Pramusiwi"
     },
     {
         "index": 65,
-        "soal": "Penemu mesin uap?",
-        "jawaban": "James Watt"
+        "soal": "Daerah di Jepang dimana terjadi kebocoran nuklir pada tahun 2011?",
+        "jawaban": "Fukushima"
     },
     {
         "index": 66,
-        "soal": "Satuan dasar panjang dalam sistem metrik?",
-        "jawaban": "Meter"
+        "soal": "Perlindungan finansial untuk jiwa kesehatan properti dsb?",
+        "jawaban": "Asuransi"
     },
     {
         "index": 67,
-        "soal": "Ibukota negara Malaysia?",
-        "jawaban": "Kuala Lumpur"
+        "soal": "Perusahaan berlogo kuda asal Italia produsen mobil super dan mobil balap?",
+        "jawaban": "Ferrari"
     },
     {
         "index": 68,
-        "soal": "Hasil dari 10² + 5²?",
-        "jawaban": "125"
+        "soal": "Suku dari sulawesi selatan yang terkenal sebagai pelaut ulung?",
+        "jawaban": "Bugis"
     },
     {
         "index": 69,
-        "soal": "Hewan yang memiliki cangkang keras?",
-        "jawaban": "Kura-kura"
+        "soal": "Vampir yang merupakan tokoh utama fiksi ciptaan Bram Stoker?",
+        "jawaban": "Drakula"
     },
     {
         "index": 70,
-        "soal": "Negara dengan julukan 'Negeri Paman Sam'?",
-        "jawaban": "Amerika Serikat"
+        "soal": "Planet ini merupakan planet terbesar di Tata Surya?",
+        "jawaban": "Yupiter"
     },
     {
         "index": 71,
-        "soal": "Penemu teori gravitasi?",
-        "jawaban": "Isaac Newton"
+        "soal": "Tanaman yang dipakai sebagai bahan pembuat kertas pada Zaman Mesir Kuno?",
+        "jawaban": "Papirus"
     },
     {
         "index": 72,
-        "soal": "Ibukota provinsi Jawa Timur?",
-        "jawaban": "Surabaya"
+        "soal": "Bahan peledak berupa bubuk campuran dari belerang, arang, dan kalium nitrat?",
+        "jawaban": "Mesiu"
     },
     {
         "index": 73,
-        "soal": "Hasil dari 8 × 7 - 12?",
-        "jawaban": "44"
+        "soal": "Bahasa resmi yang juga digunakan secara luas di Negara Filipina?",
+        "jawaban": "Tagalog"
     },
     {
         "index": 74,
-        "soal": "Planet terkecil di tata surya?",
-        "jawaban": "Merkurius"
+        "soal": "Negara kecil di Amerika Selatan, terdapat banyak keturunan Suku Jawa?",
+        "jawaban": "Suriname"
     },
     {
         "index": 75,
-        "soal": "Penulis 'Negeri 5 Menara'?",
-        "jawaban": "Ahmad Fuadi"
+        "soal": "Kuda jantan bersayap dari mitologi Yunani?",
+        "jawaban": "Pegasus"
     },
     {
         "index": 76,
-        "soal": "Zat yang membuat darah berwarna merah?",
-        "jawaban": "Hemoglobin"
+        "soal": "Grup musik Rock alternatif dari London. vokalisnya bernama Chris Martin?",
+        "jawaban": "Coldplay"
     },
     {
         "index": 77,
-        "soal": "Ibukota negara Filipina?",
-        "jawaban": "Manila"
+        "soal": "Buah yang jika dipotong mempunyai penampang berbentuk bintang?",
+        "jawaban": "Belimbing"
     },
     {
         "index": 78,
-        "soal": "Hasil dari 12 × 5 ÷ 4?",
-        "jawaban": "15"
+        "soal": "Ensembel musik yang biasanya menonjolkan metalofon, gambang, gendang, dan gong?",
+        "jawaban": "Gamelan"
     },
     {
         "index": 79,
-        "soal": "Hewan yang memiliki tanduk panjang?",
-        "jawaban": "Badak"
+        "soal": "Nama kota yang selama beberapa abad diperebutkan oleh Islam, Kristen, Yahudi?",
+        "jawaban": "Yerusalem"
     },
     {
         "index": 80,
-        "soal": "Negara dengan bendera merah dan putih salib?",
-        "jawaban": "Swiss"
+        "soal": "Bahasa resmi negara Bangladesh, digunakan oleh sekitar 200 juta orang?",
+        "jawaban": "Bengali"
     },
     {
         "index": 81,
-        "soal": "Penemu radio?",
-        "jawaban": "Guglielmo Marconi"
+        "soal": "Minuman memabukkan yang berbahan dasar etanol?",
+        "jawaban": "Alkohol"
     },
     {
         "index": 82,
-        "soal": "Satuan dasar waktu dalam sistem metrik?",
-        "jawaban": "Detik"
+        "soal": "Satu-satunya gunung berapi aktif di Eropa Daratan yang letaknya di Italia?",
+        "jawaban": "Vesuvius"
     },
     {
         "index": 83,
-        "soal": "Ibukota negara Vietnam?",
-        "jawaban": "Hanoi"
+        "soal": "Karakter fiksi berambut sangat panjang tokoh utama film animasi Tangled?",
+        "jawaban": "Rapunzel"
     },
     {
         "index": 84,
-        "soal": "Hasil dari 9² - 7²?",
-        "jawaban": "32"
+        "soal": "Bencana alam berupa gelombang ombak besar dari laut?",
+        "jawaban": "Tsunami"
     },
     {
         "index": 85,
-        "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang?",
-        "jawaban": "Penguin"
+        "soal": "Nama kota di negara Turki yang zaman dulu bernama Konstantinopel?",
+        "jawaban": "Istanbul"
     },
     {
         "index": 86,
-        "soal": "Negara dengan julukan 'Negeri Matahari Terbit'?",
-        "jawaban": "Jepang"
+        "soal": "Subspesies manusia yang punah dari muka bumi sekitar 30.000 tahun yang lalu?",
+        "jawaban": "Neanderthal"
     },
     {
         "index": 87,
-        "soal": "Penemu teori evolusi?",
-        "jawaban": "Charles Darwin"
+        "soal": "Nama ritual bunuh diri kaum Samurai di Jepang dengan cara merobek perut?",
+        "jawaban": "Seppuku"
     },
     {
         "index": 88,
-        "soal": "Ibukota provinsi Sumatera Barat?",
-        "jawaban": "Padang"
+        "soal": "Jenis keju asal Italia yang seringkali terdapat pada hidangan pizza?",
+        "jawaban": "Mozzarella"
     },
     {
         "index": 89,
-        "soal": "Hasil dari 6 × 8 + 10?",
-        "jawaban": "58"
+        "soal": "Gelar bagi istri dari penguasa monarki pria(raja, sultan, atau kaisar)?",
+        "jawaban": "Permaisuri"
     },
     {
         "index": 90,
-        "soal": "Planet dengan suhu terpanas di tata surya?",
-        "jawaban": "Venus"
+        "soal": "Nama suku yang sejak lama mendiami daerah kutub utara bumi?",
+        "jawaban": "Eskimo"
     },
     {
         "index": 91,
-        "soal": "Penulis 'Bumi Manusia'?",
-        "jawaban": "Pramoedya Ananta Toer"
+        "soal": "Unsur paling berlimpah kedua setelah oksigen pada tubuh manusia?",
+        "jawaban": "Karbon"
     },
     {
         "index": 92,
-        "soal": "Zat yang membuat tulang kuat?",
-        "jawaban": "Kalsium"
+        "soal": "Peristiwa genosida terhadap penganut Yahudi Eropa selama Perang Dunia II?",
+        "jawaban": "Holokaus"
     },
     {
         "index": 93,
-        "soal": "Ibukota negara Singapura?",
-        "jawaban": "Singapura"
+        "soal": "Proses perubahan gula menjadi etanol yang dilakukan oleh ragi?",
+        "jawaban": "Fermentasi"
     },
     {
         "index": 94,
-        "soal": "Hasil dari 20 × 3 ÷ 5?",
-        "jawaban": "12"
+        "soal": "Ramalan dalam tradisi jawa yang membahas mengenai adanya ratu adil?",
+        "jawaban": "Jayabaya"
     },
     {
         "index": 95,
-        "soal": "Hewan yang memiliki leher panjang?",
-        "jawaban": "Jerapah"
+        "soal": "Tokoh abad ke 15 dari Polandia yang mencetuskan teori heliosentrisme?",
+        "jawaban": "Copernicus"
     },
     {
         "index": 96,
-        "soal": "Negara dengan bendera merah dan putih?",
-        "jawaban": "Indonesia"
+        "soal": "Alat populer untuk menyambung dua sisi kain, digunakan dalam pakaian, tas, dsb?",
+        "jawaban": "Ritsleting"
     },
     {
         "index": 97,
-        "soal": "Penemu listrik?",
-        "jawaban": "Michael Faraday"
+        "soal": "Satuan perbedaan potensi listrik antara dua titik dalam rangkaian listrik?",
+        "jawaban": "Voltase"
     },
     {
         "index": 98,
-        "soal": "Satuan dasar massa dalam sistem metrik?",
-        "jawaban": "Kilogram"
+        "soal": "Sistem sosial yang memberikan kekuasaan besar kepada golongan bangsawan?",
+        "jawaban": "Feodalisme"
     },
     {
         "index": 99,
-        "soal": "Ibukota negara Kamboja?",
-        "jawaban": "Phnom Penh"
+        "soal": "Nama pemanis buatan/sintetis yang tersusun dari dua macam asam amino?",
+        "jawaban": "Aspartam"
     },
     {
         "index": 100,
-        "soal": "Negara dengan julukan 'Negeri Kiwi'?",
-        "jawaban": "Selandia Baru"
+        "soal": "Konsol permainan video yang pertama kali diproduksi oleh Sony tahun 1990an?",
+        "jawaban": "PlayStation"
     },
     {
         "index": 101,
-        "soal": "Hasil dari 15 × 4 - 20?",
-        "jawaban": "40"
+        "soal": "Nama lain pulau Kalimantan, digunakan saat zaman pemerintahan Hindia Belanda?",
+        "jawaban": "Borneo"
     },
     {
         "index": 102,
-        "soal": "Hewan yang memiliki cangkang spiral?",
-        "jawaban": "Siput"
+        "soal": "Batu permata atau batu mulia yang warnanya pada kisaran hijau?",
+        "jawaban": "Zamrud"
     },
     {
         "index": 103,
-        "soal": "Ibukota negara Jerman?",
-        "jawaban": "Berlin"
+        "soal": "Nama museum sejarah dan kebudayaan jawa yang berada di Yogyakarta?",
+        "jawaban": "Sonobudoyo"
     },
     {
         "index": 104,
-        "soal": "Penemu mesin cetak?",
-        "jawaban": "Johannes Gutenberg"
+        "soal": "Cabang ilmu kedokteran yang mempelajari aspek kesehatan jiwa dan tubuh manusia?",
+        "jawaban": "Psikiatri"
     },
     {
         "index": 105,
-        "soal": "Satuan dasar arus listrik?",
-        "jawaban": "Ampere"
+        "soal": "Presiden pertama Amerika Serikat, juga menjadi nama Ibukota Amerika Serikat?",
+        "jawaban": "Washingthon"
     },
     {
         "index": 106,
-        "soal": "Ibukota provinsi Bali?",
-        "jawaban": "Denpasar"
+        "soal": "Satu-satunya jenis hewan mamalia yang bisa terbang?",
+        "jawaban": "Kelelawar"
     },
     {
         "index": 107,
-        "soal": "Hasil dari 12 × 6 ÷ 3?",
-        "jawaban": "24"
+        "soal": "Gugus kepulauan Oseania, terdiri lebih dari 1000 kepulauan?",
+        "jawaban": "Polinesia"
     },
     {
         "index": 108,
-        "soal": "Planet dengan cincin paling mencolok?",
-        "jawaban": "Saturnus"
+        "soal": "Gelar penguasa monarki zaman kerajaan, tingkatnya setara dengan kaisar?",
+        "jawaban": "Maharaja"
     },
     {
         "index": 109,
-        "soal": "Penulis 'Ayat-Ayat Cinta'?",
-        "jawaban": "Habiburrahman El Shirazy"
+        "soal": "Nama pulau yang paling berdekatan dengan negara Singapura?",
+        "jawaban": "Batam"
     },
     {
         "index": 110,
-        "soal": "Zat yang membuat api menyala?",
-        "jawaban": "Oksigen"
+        "soal": "Cabang angkatan bersenjata berkemampuan melakukan penyerbuan secara amfibi?",
+        "jawaban": "Marinir"
     },
     {
         "index": 111,
+        "soal": "Perusahaan operator seluler di Indonesia dengan pelanggan terbanyak?",
+        "jawaban": "Telkomsel"
+    },
+    {
+        "index": 112,
+        "soal": "Nama binatang bercangkang dan berkaki 10?",
+        "jawaban": "Kepiting"
+    },
+    {
+        "index": 113,
+        "soal": "Benda miniatur untuk menggabarkan suatu pemandangan atau suatu adegan?",
+        "jawaban": "Diorama"
+    },
+    {
+        "index": 114,
+        "soal": "Rumah adat masyarakat Toraja, atapnya melengkung menyerupai perahu?",
+        "jawaban": "Tonkonan"
+    },
+    {
+        "index": 115,
+        "soal": "Gua yang menjadi markas besar pangeran Diponegoro pada tahun 1825?",
+        "jawaban": "Selarong"
+    },
+    {
+        "index": 116,
+        "soal": "Sebutan untuk makhluk berwujud perempuan yang tinggal di kahyangan/surga?",
+        "jawaban": "Bidadari"
+    },
+    {
+        "index": 117,
+        "soal": "Pedang melengkung satu mata yang digunakan para Samurai Jepang?",
+        "jawaban": "Katana"
+    },
+    {
+        "index": 118,
+        "soal": "Bahan perhiasan yang diproduksi di dalam jaringan lunak hewan moluska?",
+        "jawaban": "Mutiara"
+    },
+    {
+        "index": 119,
+        "soal": "Nama perusahaan dari Finlandia pengembang game Clash of Clans?",
+        "jawaban": "Supercell"
+    },
+    {
+        "index": 120,
+        "soal": "Minuman tradisional khas Sunda, berbahan utama gula aren dan santan?",
+        "jawaban": "Bajigur"
+    },
+    {
+        "index": 121,
+        "soal": "Aliran musik yang awalnya dikembangkan di jamaika pada tahun 1960an?",
+        "jawaban": "Reggae"
+    },
+    {
+        "index": 122,
+        "soal": "Drama tradisional dari Jawa Timur, bersifat menghibur dan membuat tertawa?",
+        "jawaban": "Ludruk"
+    },
+    {
+        "index": 123,
+        "soal": "Nama asrama sekolah fiksi dimana tokoh Harry Potter belajar sihir?",
+        "jawaban": "Hogwarts"
+    },
+    {
+        "index": 124,
+        "soal": "Kota yang asal mula namanya berasal dari sejarahnya sebagai pembuat terasi?",
+        "jawaban": "Cirebon"
+    },
+    {
+        "index": 125,
+        "soal": "Pejabat umum dalam bidang hukum yang berwenang membuat akta otentik?",
+        "jawaban": "Notaris"
+    },
+    {
+        "index": 126,
+        "soal": "Jenis gula yang diproses dari karbohidrat oleh tubuh manusia?",
+        "jawaban": "Glukosa"
+    },
+    {
+        "index": 127,
+        "soal": "Pisau genggam kecil berbentuk melengkung khas dari Asia Tenggara?",
+        "jawaban": "Kerambit"
+    },
+    {
+        "index": 128,
+        "soal": "Spesies gajah purba dari genus mamut, pemakan dedaunan dan dahan pohon?",
+        "jawaban": "Mastodon"
+    },
+    {
+        "index": 129,
+        "soal": "Sumpah yang dikemukakan Gajah Mada pada upacara pengangkatannya menjadi Patih?",
+        "jawaban": "Palapa"
+    },
+    {
+        "index": 130,
+        "soal": "Produk simpanan di bank, penarikannya hanya bisa dilakukan pada waktu tertentu saja?",
+        "jawaban": "Deposito"
+    },
+    {
+        "index": 131,
+        "soal": "Gejala optik dan meteorologi berupa cahaya beraneka warna yang tampak di langit?",
+        "jawaban": "Pelangi"
+    },
+    {
+        "index": 132,
+        "soal": "Senjata roket militer yang memiliki sistem pengendali otomatis untuk mencari target?",
+        "jawaban": "Rudal"
+    },
+    {
+        "index": 133,
+        "soal": "Sindikat kejahatan terorganisir di Jepang yang memiliki cara dan hukum mereka sendiri?",
+        "jawaban": "Yakuza"
+    },
+    {
+        "index": 134,
+        "soal": "Golongan cendekiawan yang juga merupakan golongan karya atau warna dalam agama Hindu?",
+        "jawaban": "Brahmana"
+    },
+    {
+        "index": 135,
+        "soal": "Musim kering pada daerah tropis yang dipengaruhi oleh sistem muson?",
+        "jawaban": "kemarau"
+    },
+    {
+        "index": 136,
+        "soal": "Sekolah umum yang kurikulumnya terdapat pelajaran-pelajaran tentang ke-islaman?",
+        "jawaban": "Madrasah"
+    },
+    {
+        "index": 137,
+        "soal": "Tanaman yang dapat tumbuh tanpa air pada waktu yang lama, ada di daerah gurun?",
+        "jawaban": "Kaktus"
+    },
+    {
+        "index": 138,
+        "soal": "Sebuah ordo berjari lima dari mamalia, diantaranya termasuk lemur, kera, dan manusia?",
+        "jawaban": "Primata"
+    },
+    {
+        "index": 139,
+        "soal": "Blus tradisional wanita yang terbuat dari bahan tipis, dikenakan dengan sarung atau batik?",
+        "jawaban": "Kebaya"
+    },
+    {
+        "index": 140,
+        "soal": "Jenis protein yang biasanya terkandung di dalam gandum, dihindari penderita celiac?",
+        "jawaban": "Gluten"
+    },
+    {
+        "index": 141,
+        "soal": "Olahraga bela diri yang dikembangkan oleh para Afrika di Brasil pada tahun 1500an?",
+        "jawaban": "Capoeira"
+    },
+    {
+        "index": 142,
+        "soal": "Peristiwa pengikisan padatan seperti batuan/tanah akibat transportasi angin, air, atau es?",
+        "jawaban": "Erosi"
+    },
+    {
+        "index": 143,
+        "soal": "Ikan yang merupakan kerabat dekat ikan tuna, sering diolah menjadi kerupuk, siomay, pempek?",
+        "jawaban": "Ikan tenggiri"
+    },
+    {
+        "index": 144,
+        "soal": "Sebuah jenis tari pergaulan tradisional masyarakat Sunda, khusunya daerah Karawang?",
+        "jawaban": "Jaipongan"
+    },
+    {
+        "index": 145,
+        "soal": "Sistem bilangan dimana penulisan angka menggunakan dua simbol yaitu 0 dan 1?",
+        "jawaban": "Biner"
+    },
+    {
+        "index": 146,
+        "soal": "Rempah dari biji keluarga jahe-jahean, merupakan rempah termahal ketiga di dunia?",
+        "jawaban": "Kapulaga"
+    },
+    {
+        "index": 147,
+        "soal": "Benua yang meliputi Kutub Selatan bumi memiliki suhu yang sangat rendah?",
+        "jawaban": "Antartika"
+    },
+    {
+        "index": 148,
+        "soal": "Senjata pelontar yang banyak digunakan pada Abad Pertengahan untuk menghancurkan dinding?",
+        "jawaban": "Trebuset"
+    },
+    {
+        "index": 149,
+        "soal": "Serpihan putih yang merupakan pengelupasan kulit mati berlebihan di kepala?",
+        "jawaban": "Ketombe"
+    },
+    {
+        "index": 150,
+        "soal": "Ilmu yang mempelajari bahasa dalam naskah-naskah manuskrip zaman kuno?",
+        "jawaban": "Filologi"
+    },
+    {
+        "index": 151,
+        "soal": "Susu yang hanya dihasilkan pada tahap akhir kehamilan beberapa hari setelah melahirkan?",
+        "jawaban": "Kolostrum"
+    },
+    {
+        "index": 152,
+        "soal": "Tanaman asli Jepang terasa tajam/pedas yang dimakan sebagai penyedap masakan Jepang?",
+        "jawaban": "Wasabi"
+    },
+    {
+        "index": 153,
+        "soal": "Olahraga yang menggunakan tongkat pemukul, lapangannya berbentuk bujur sangkar?",
+        "jawaban": "Bisbol"
+    },
+    {
+        "index": 154,
+        "soal": "Bumbu khas untuk masakan Batak Toba yang juga dikenal sebagai merica Batak?",
+        "jawaban": "Andaliman"
+    },
+    {
+        "index": 155,
+        "soal": "Sistem pemerintahan yang dianut oleh negara Inggris, Jepang, Belanda, Malaysia, Singapura?",
+        "jawaban": "Parelementer"
+    },
+    {
+        "index": 156,
+        "soal": "Makanan tradisional Korea berupa asinan sayur hasil fermentasi yang diberi bumbu pedas?",
+        "jawaban": "Kimchi"
+    },
+    {
+        "index": 157,
+        "soal": "Istilah untuk sesuatu yang bertujuan sosial atau lingkungan, bukan bertujuan keuntungan materi?",
+        "jawaban": "Nirlaba"
+    },
+    {
+        "index": 158,
+        "soal": "Gerakan yang memperjuangkan kesetaraan bagi perempuan dalam politik, ekonomi, budaya, dsb?",
+        "jawaban": "Feminisme"
+    },
+    {
+        "index": 159,
+        "soal": "Minuman hasil fermentasi teh dan gula yang berasal dari Asia Timur?",
+        "jawaban": "Kombucha"
+    },
+    {
+        "index": 160,
+        "soal": "Kelompok garis kerras dari Rusia tahun 1903 yang berpikir perubahan harus dimenangkan dengan senjata?",
+        "jawaban": "Bolshevic"
+    },
+    {
+        "index": 161,
+        "soal": "Nama pulau vulkanik yang berada di tengah Danau Toba Sumatera Utara?",
+        "jawaban": "Samosir"
+    },
+    {
+        "index": 162,
+        "soal": "Prajurit pada zaman Yunani Kuno, berfungsi sebagai penombak dalam formasi phalanx?",
+        "jawaban": "Hoplites"
+    },
+    {
+        "index": 163,
+        "soal": "Nama dari sebuah pekan yang terdiri dari 5 hari dalam budaya Jawa dan Bali?",
+        "jawaban": "Pancawara"
+    },
+    {
+        "index": 164,
+        "soal": "Cara penyajian makanan pada masa kolonial Belanda dengan berbagai macam hidangan Nusantara?",
+        "jawaban": "Rijsttafel"
+    },
+    {
+        "index": 165,
+        "soal": "Istilah untuk budidaya menanamdengan memanfaatkan air tanpa menggunakan tanah?",
+        "jawaban": "Hidroponik"
+    },
+    {
+        "index": 166,
+        "soal": "Jenis logam paling berlimpah di Bumi, merupakan konduktor listrik yang paling baik?",
+        "jawaban": "Aluminium"
+    },
+    {
+        "index": 167,
+        "soal": "Sebuah organisasi ekonomi berdasarkan ekonomi rakyat dan asas kekeluargaan?",
+        "jawaban": "Koperasi"
+    },
+    {
+        "index": 168,
+        "soal": "Hari raya umat hindu, dirayakan setiap 210 hari menggunakan perhitungan kalender Bali?",
+        "jawaban": "Galungan"
+    },
+    {
+        "index": 169,
+        "soal": "Ilmu yang mempelajari bentuk permukaan bumi serta permukaan planet, satelit alami, asteroid?",
+        "jawaban": "Topografi"
+    },
+    {
+        "index": 170,
+        "soal": "Persembahan kepada dewa atau arwah nenek moyang oleh penganut kepercayaan kuno di Indonesia?",
+        "jawaban": "Sesajen"
+    },
+    {
+        "index": 171,
+        "soal": "Judul lagurakyat Korea, sekaligus simbol Korea, dikenal di Korea Utara maupun Korea Selatan?",
+        "jawaban": "Arirang"
+    },
+    {
+        "index": 172,
+        "soal": "Istilah bentuk bangsa pengembara yang memilih hidup berpindah-pindah untuk bertahan hidup?",
+        "jawaban": "Nomaden"
+    },
+    {
+        "index": 173,
+        "soal": "Sejenis jamur pinus langka yang menjadi bahan makanan mewah berharga mahal di Jepang?",
+        "jawaban": "Matsutake"
+    },
+    {
+        "index": 174,
+        "soal": "Suatu adat masyarakat yang mengatur alur keturunan berasal dari pihak ibu?",
+        "jawaban": "Matrilineal"
+    },
+    {
+        "index": 175,
+        "soal": "Padang rumput yang dipenuhi semak dan beberapa jenis pohon yang tumbuh menyebar?",
+        "jawaban": "Sabana"
+    },
+    {
+        "index": 176,
+        "soal": "Penjelajah asal italia yang menemukan benua amerika pada tahun 1492?",
+        "jawaban": "Capoerira"
+    },
+    {
+        "index": 177,
+        "soal": "Skor atau skala yang digunakan unuk menilai kondisi kesehatan bayi yang baru lahir?",
+        "jawaban": "Apgar"
+    },
+    {
+        "index": 178,
+        "soal": "Salah satu pulau di Sulawesi Utara yang memiliki biodiversitas kelautan tertinngi di dunia?",
+        "jawaban": "Bunaken"
+    },
+    {
+        "index": 179,
+        "soal": "Ahli pengaplikasian ilmu keuangan dan teori statistik pada persoalan bisnis aktual?",
+        "jawaban": "Aktuaris"
+    },
+    {
+        "index": 180,
+        "soal": "Tradisi sepasang pengantin meminta doa restu kepada orang tua kedua belah pihak?",
+        "jawaban": "Sungkem"
+    },
+    {
+        "index": 181,
+        "soal": "Jenis saus berwarna putih yang terbuat dari minyak nabati, telur ayam, dan cuka?",
+        "jawaban": "Mayones"
+    },
+    {
+        "index": 182,
+        "soal": "Istilah yang artinya tidak memberikan suara atau sikap dalam sebuah pemungutan suara?",
+        "jawaban": "Abstain"
+    },
+    {
+        "index": 183,
+        "soal": "Salah satu bunga nasional indonesia memiliki julukan sebagai puspa bangsa?",
+        "jawaban": "Melati"
+    },
+    {
+        "index": 184,
+        "soal": "Alat musik dawai yang dimainkan dengan cara dipetik, berasal dari Rote, NTT?",
+        "jawaban": "Sasando"
+    },
+    {
+        "index": 185,
+        "soal": "Batu yang menggantungkan dan meneteskan air dari langit-langit gua kapur?",
+        "jawaban": "Stalaktit"
+    },
+    {
+        "index": 186,
+        "soal": "Ikon negara singapura berupa patung berkepala singa dengan berbadan ikan?",
+        "jawaban": "Merlion"
+    },
+    {
+        "index": 187,
+        "soal": "Istilah dalam catur ketika posisi raja tidak bisa lepas dari pergerakan lawan?",
+        "jawaban": "Sekakmat"
+    },
+    {
+        "index": 188,
+        "soal": "Alat untuk mengukur tekanan udara, digunakan dalam peramalan cuaca?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 189,
+        "soal": "Presiden amerika ke 32 satu-satunya yang terpilih sebanyak 4 kali?",
+        "jawaban": "Roosevelt"
+    },
+    {
+        "index": 190,
+        "soal": "Jenis rumah arsitektur tradisional Jawa terbangun dari empat tiang utama?",
+        "jawaban": "Limasan"
+    },
+    {
+        "index": 191,
+        "soal": "Istilah bahasa Jepang untuk karakter gambar yang digunakan dalam pesan elektronik?",
+        "jawaban": "Emoji"
+    },
+    {
+        "index": 192,
+        "soal": "Salah satu senjata belati khas Nusantara yang seringkali bilahnya berkelok-kelok?",
+        "jawaban": "Keris"
+    },
+    {
+        "index": 193,
+        "soal": "Penduduk asli benua Australia yang berciri kulit gelap dan rambut keriting?",
+        "jawaban": "Aborigin"
+    },
+    {
+        "index": 194,
+        "soal": "Tarian khas suku gayo dari aceh, ditampilkan untuk merayakan peristiwa penting?",
+        "jawaban": "Tari saman"
+    },
+    {
+        "index": 195,
+        "soal": "Bentuk muda serangga atau amfibia yang perkembangannya melalui metamorfosis?",
+        "jawaban": "Larva"
+    },
+    {
+        "index": 196,
+        "soal": "Tempat kapal ditambatkan di pelabuhan untuk kegiatan bongkar muat barang?",
+        "jawaban": "Dermaga"
+    },
+    {
+        "index": 197,
+        "soal": "Jenis jam tangan yang digerakkan oleh mesin bertenaga listrik atau baterai?",
+        "jawaban": "Quartz"
+    },
+    {
+        "index": 198,
+        "soal": "Suku penganut Agama Hindu yang tinggal di sekitar pegunungan Bromo dan Semeru?",
+        "jawaban": "Tengger"
+    },
+    {
+        "index": 199,
+        "soal": "Mainan yang bisa berputar padaporos dan berkesetimbangan pada suatu titik?",
+        "jawaban": "Gasing"
+    },
+    {
+        "index": 200,
+        "soal": "Tanaman polong-polongan yang merupakan sumber utama protein nabati dunia?",
+        "jawaban": "Kedelai"
+    },
+    {
+        "index": 201,
+        "soal": "Cairan tidak berwarna, tidak berbau, digunakan sebagai senjata kimia pemusnah massal?",
+        "jawaban": "Sarin"
+    },
+    {
+        "index": 202,
+        "soal": "Cabang ilmu kedokteran gigi yang khusus mempelajari ilmu merapikan gigi?",
+        "jawaban": "Ortodonti"
+    },
+    {
+        "index": 203,
+        "soal": "Sstilah yang berasal dari Bahasa Italia, artinya penari baletperempuan?",
+        "jawaban": "Balerina"
+    },
+    {
+        "index": 204,
+        "soal": "Sawah berundak di Bali yang diakui UNESCO sebagai Warisan Budaya Dunia?",
+        "jawaban": "Jatiluwih"
+    },
+    {
+        "index": 205,
+        "soal": "Makanan pokok pengganti nasi yang dibuat dari ketela pohon atau singkong?",
+        "jawaban": "Tiwul"
+    },
+    {
+        "index": 206,
+        "soal": "Bagian mata yang mengubah cahaya menjadi sinyal saraf?",
+        "jawaban": "Retina"
+    },
+    {
+        "index": 207,
+        "soal": "Nama mesin penyandi yang digunakan Jerman nazi pada Perang Dunia II?",
+        "jawaban": "Enigma"
+    },
+    {
+        "index": 208,
+        "soal": "Kosmetika yang terbuat dari lilin, pigmen, minyak, diaplikasikan pada bibir?",
+        "jawaban": "Lipstik"
+    },
+    {
+        "index": 209,
+        "soal": "Bumbu makanan yang terbuat dari fermentasi kedelai, terigu, dan garam?",
+        "jawaban": "Tauco"
+    },
+    {
+        "index": 210,
+        "soal": "Hewan renik yang dapat menurunkan produktivitas hewan yang diumpanginya?",
+        "jawaban": "Parasit"
+    },
+    {
+        "index": 211,
+        "soal": "Cairan manis yang diproduksi bunga untuk menarik kedatangan hewan penyerbuk?",
+        "jawaban": "Nektar"
+    },
+    {
+        "index": 212,
+        "soal": "Proses pembuatan daratan baru dari dasar laut atau dasar sungai?",
+        "jawaban": "Reklamasi"
+    },
+    {
+        "index": 213,
+        "soal": "Istilah untuk keadaan niat sebelum melaksanakan ibadah Haji atau Umroh?",
+        "jawaban": "Ihram"
+    },
+    {
+        "index": 214,
+        "soal": "Alat musik senar khas suku Banjar, dimainkan dengan cara dipetik?",
+        "jawaban": "Panting"
+    },
+    {
+        "index": 215,
+        "soal": "Penyakit virus mematikan yang mewabah di Afrika Barat tahun 2014?",
+        "jawaban": "Ebola"
+    },
+    {
+        "index": 216,
+        "soal": "Jenis musang yang dikenal suka menyantap biji kopi secara utuh?",
+        "jawaban": "Luwak"
+    },
+    {
+        "index": 217,
+        "soal": "Nama pedang yang dimiliki raja Arthur menurut mitologi Britania Raya?",
+        "jawaban": "Excalibur"
+    },
+    {
+        "index": 218,
+        "soal": "Negara yang memiliki bendera merah putih persis seperti Indonesia?",
+        "jawaban": "Monako"
+    },
+    {
+        "index": 219,
+        "soal": "Suatu pertunjukan teater yang menggunakan isyarat gerak tubuh tanpa suara?",
+        "jawaban": "Pantomim"
+    },
+    {
+        "index": 220,
+        "soal": "Tradisi pernikahan calon mempelai wanita tidak diperkenankan keluar rumah?",
+        "jawaban": "Pingitan"
+    },
+    {
+        "index": 221,
+        "soal": "Tipe hewan yang beraktivitas pada malam hari dan tidur pada siang hari?",
+        "jawaban": "Nokturnal"
+    },
+    {
+        "index": 222,
+        "soal": "Kelainan bawaan tidak adanya pigmen melanin pada mata, kulit, rambut?",
+        "jawaban": "Albinisme"
+    },
+    {
+        "index": 223,
+        "soal": "Cabang ilmu linguistik yang mempelajari asal usul kata?",
+        "jawaban": "Etimologi"
+    },
+    {
+        "index": 224,
+        "soal": "Jenis ikan yang dapat melompat kedaratan, terdapat di Pulau Kalimantan?",
+        "jawaban": "Tembakul"
+    },
+    {
+        "index": 225,
+        "soal": "Mata uang elektronik dengan teknologi blockchain yang diciptakan pada tahun 2009?",
+        "jawaban": "Bitcoin"
+    },
+    {
+        "index": 226,
+        "soal": "Pengusaha rokok terbesar tahun 1918 pemilik pabrik kretek tjap bal tiga?",
+        "jawaban": "Nitisemito"
+    },
+    {
+        "index": 227,
+        "soal": "Pelukis ekspresionis ini dikenal sebagai maestro seni lukis Indonesia?",
+        "jawaban": "Affandi"
+    },
+    {
+        "index": 228,
+        "soal": "Gunung tertinggi di pulau Jawa?",
+        "jawaban": "Semeru"
+    },
+    {
+        "index": 229,
+        "soal": "Siapakah presiden pertama Filipina?",
+        "jawaban": "Emilio Aguinaldo"
+    },
+    {
+        "index": 230,
+        "soal": "Rumus luas lingkaran adalah?",
+        "jawaban": "πr²"
+    },
+    {
+        "index": 231,
+        "soal": "Tari kecak berasal dari daerah?",
+        "jawaban": "Bali"
+    },
+    {
+        "index": 232,
         "soal": "Ibukota negara Kanada?",
         "jawaban": "Ottawa"
     },
     {
-        "index": 112,
-        "soal": "Hasil dari 18 × 3 - 15?",
-        "jawaban": "39"
+        "index": 233,
+        "soal": "Siapakah penemu bola lampu?",
+        "jawaban": "Thomas Edison"
     },
     {
-        "index": 113,
-        "soal": "Hewan yang memiliki tanduk melingkar?",
-        "jawaban": "Kambing"
-    },
-    {
-        "index": 114,
-        "soal": "Negara dengan bendera merah dan putih berlambang daun maple?",
-        "jawaban": "Kanada"
-    },
-    {
-        "index": 115,
-        "soal": "Penemu pesawat terbang?",
-        "jawaban": "Wright Bersaudara"
-    },
-    {
-        "index": 116,
-        "soal": "Satuan dasar suhu dalam sistem metrik?",
-        "jawaban": "Kelvin"
-    },
-    {
-        "index": 117,
-        "soal": "Ibukota negara Brasil?",
-        "jawaban": "Brasília"
-    },
-    {
-        "index": 118,
-        "soal": "Hasil dari 20 × 5 ÷ 4?",
-        "jawaban": "25"
-    },
-    {
-        "index": 119,
-        "soal": "Hewan yang memiliki sayap transparan?",
-        "jawaban": "Capung"
-    },
-    {
-        "index": 120,
-        "soal": "Negara dengan julukan 'Negeri Tirai Bambu'?",
-        "jawaban": "Cina"
-    },
-    {
-        "index": 121,
-        "soal": "Penemu teori relativitas umum?",
-        "jawaban": "Albert Einstein"
-    },
-    {
-        "index": 122,
-        "soal": "Ibukota provinsi Sumatera Utara?",
-        "jawaban": "Medan"
-    },
-    {
-        "index": 123,
-        "soal": "Hasil dari 25 × 4 - 30?",
-        "jawaban": "70"
-    },
-    {
-        "index": 124,
-        "soal": "Planet dengan suhu terdingin di tata surya?",
-        "jawaban": "Neptunus"
-    },
-    {
-        "index": 125,
-        "soal": "Penulis 'Laskar Pelangi'?",
-        "jawaban": "Andrea Hirata"
-    },
-    {
-        "index": 126,
-        "soal": "Zat yang membuat air asin?",
-        "jawaban": "Natrium klorida"
-    },
-    {
-        "index": 127,
-        "soal": "Ibukota negara Argentina?",
-        "jawaban": "Buenos Aires"
-    },
-    {
-        "index": 128,
-        "soal": "Hasil dari 30 × 3 ÷ 5?",
-        "jawaban": "18"
-    },
-    {
-        "index": 129,
-        "soal": "Hewan yang memiliki kulit berduri?",
-        "jawaban": "Landak"
-    },
-    {
-        "index": 130,
-        "soal": "Negara dengan bendera merah dan putih berlambang bintang?",
-        "jawaban": "Turki"
-    },
-    {
-        "index": 131,
-        "soal": "Penemu telepon seluler?",
-        "jawaban": "Martin Cooper"
-    },
-    {
-        "index": 132,
-        "soal": "Satuan dasar intensitas cahaya?",
-        "jawaban": "Candela"
-    },
-    {
-        "index": 133,
-        "soal": "Ibukota negara Afrika Selatan?",
-        "jawaban": "Pretoria"
-    },
-    {
-        "index": 134,
-        "soal": "Hasil dari 40 × 2 - 15?",
-        "jawaban": "65"
-    },
-    {
-        "index": 135,
-        "soal": "Hewan yang memiliki belalai panjang?",
-        "jawaban": "Gajah"
-    },
-    {
-        "index": 136,
-        "soal": "Negara dengan julukan 'Negeri 1001 Malam'?",
-        "jawaban": "Arab Saudi"
-    },
-    {
-        "index": 137,
-        "soal": "Penemu teori atom?",
-        "jawaban": "John Dalton"
-    },
-    {
-        "index": 138,
-        "soal": "Ibukota provinsi Kalimantan Barat?",
-        "jawaban": "Pontianak"
-    },
-    {
-        "index": 139,
-        "soal": "Hasil dari 50 × 2 ÷ 5?",
-        "jawaban": "20"
-    },
-    {
-        "index": 140,
-        "soal": "Planet dengan rotasi tercepat di tata surya?",
+        "index": 234,
+        "soal": "Planet terbesar di tata surya?",
         "jawaban": "Jupiter"
     },
     {
-        "index": 141,
-        "soal": "Penulis 'Perahu Kertas'?",
-        "jawaban": "Dee Lestari"
-    },
-    {
-        "index": 142,
-        "soal": "Zat yang membuat udara segar?",
-        "jawaban": "Oksigen"
-    },
-    {
-        "index": 143,
-        "soal": "Ibukota negara Meksiko?",
-        "jawaban": "Mexico City"
-    },
-    {
-        "index": 144,
-        "soal": "Hasil dari 60 × 3 ÷ 6?",
-        "jawaban": "30"
-    },
-    {
-        "index": 145,
-        "soal": "Hewan yang memiliki kulit berwarna-warni?",
-        "jawaban": "Bunglon"
-    },
-    {
-        "index": 146,
-        "soal": "Negara dengan bendera merah dan putih berlambang bulan sabit?",
-        "jawaban": "Turki"
-    },
-    {
-        "index": 147,
-        "soal": "Penemu mesin diesel?",
-        "jawaban": "Rudolf Diesel"
-    },
-    {
-        "index": 148,
-        "soal": "Satuan dasar jumlah zat?",
-        "jawaban": "Mol"
-    },
-    {
-        "index": 149,
-        "soal": "Ibukota negara Rusia?",
-        "jawaban": "Moskow"
-    },
-    {
-        "index": 150,
-        "soal": "Hasil dari 70 × 2 - 50?",
-        "jawaban": "90"
-    },
-    {
-        "index": 151,
-        "soal": "Hewan yang memiliki sayap terbesar?",
-        "jawaban": "Albatros"
-    },
-    {
-        "index": 152,
-        "soal": "Negara dengan julukan 'Negeri Paman Sam'?",
-        "jawaban": "Amerika Serikat"
-    },
-    {
-        "index": 153,
-        "soal": "Penemu teori kuantum?",
-        "jawaban": "Max Planck"
-    },
-    {
-        "index": 154,
-        "soal": "Ibukota provinsi Kalimantan Timur?",
-        "jawaban": "Samarinda"
-    },
-    {
-        "index": 155,
-        "soal": "Hasil dari 80 × 3 ÷ 4?",
-        "jawaban": "60"
-    },
-    {
-        "index": 156,
-        "soal": "Planet dengan satelit terbanyak?",
-        "jawaban": "Saturnus"
-    },
-    {
-        "index": 157,
-        "soal": "Penulis 'Ronggeng Dukuh Paruk'?",
-        "jawaban": "Ahmad Tohari"
-    },
-    {
-        "index": 158,
-        "soal": "Zat yang membuat air mendidih?",
-        "jawaban": "Kalor"
-    },
-    {
-        "index": 159,
-        "soal": "Ibukota negara India?",
-        "jawaban": "New Delhi"
-    },
-    {
-        "index": 160,
-        "soal": "Hasil dari 90 × 2 ÷ 3?",
-        "jawaban": "60"
-    },
-    {
-        "index": 161,
-        "soal": "Hewan yang memiliki kulit berwarna hitam-putih?",
-        "jawaban": "Panda"
-    },
-    {
-        "index": 162,
-        "soal": "Negara dengan bendera merah dan putih berlambang bintang dan bulan sabit?",
-        "jawaban": "Pakistan"
-    },
-    {
-        "index": 163,
-        "soal": "Penemu mesin uap modern?",
-        "jawaban": "James Watt"
-    },
-    {
-        "index": 164,
-        "soal": "Satuan dasar waktu dalam sistem internasional?",
-        "jawaban": "Detik"
-    },
-    {
-        "index": 165,
-        "soal": "Ibukota negara Inggris?",
-        "jawaban": "London"
-    },
-    {
-        "index": 166,
-        "soal": "Hasil dari 100 × 2 - 80?",
-        "jawaban": "120"
-    },
-    {
-        "index": 167,
-        "soal": "Hewan yang memiliki kulit berwarna oranye-hitam?",
-        "jawaban": "Harimau"
-    },
-    {
-        "index": 168,
-        "soal": "Negara dengan julukan 'Negeri Kanguru'?",
-        "jawaban": "Australia"
-    },
-    {
-        "index": 169,
-        "soal": "Penemu teori seleksi alam?",
-        "jawaban": "Charles Darwin"
-    },
-    {
-        "index": 170,
-        "soal": "Ibukota provinsi Sulawesi Selatan?",
-        "jawaban": "Makassar"
-    },
-    {
-        "index": 171,
-        "soal": "Hasil dari 110 × 2 ÷ 4?",
-        "jawaban": "55"
-    },
-    {
-        "index": 172,
-        "soal": "Planet dengan atmosfer tertebal?",
-        "jawaban": "Venus"
-    },
-    {
-        "index": 173,
-        "soal": "Penulis 'Sang Pemimpi'?",
+        "index": 235,
+        "soal": "Siapakah penulis novel 'Laskar Pelangi'?",
         "jawaban": "Andrea Hirata"
     },
     {
-        "index": 174,
-        "soal": "Zat yang membuat es mencair?",
-        "jawaban": "Kalor"
+        "index": 236,
+        "soal": "Sungai terpanjang di dunia?",
+        "jawaban": "Sungai Nil"
     },
     {
-        "index": 175,
-        "soal": "Ibukota negara Prancis?",
-        "jawaban": "Paris"
+        "index": 237,
+        "soal": "Candi Borobudur didirikan pada masa kerajaan apa?",
+        "jawaban": "Kerajaan Syailendra"
     },
     {
-        "index": 176,
-        "soal": "Hasil dari 120 × 3 ÷ 6?",
-        "jawaban": "60"
+        "index": 238,
+        "soal": "Warna primer dalam teori warna?",
+        "jawaban": "Merah, Biru, Kuning"
     },
     {
-        "index": 177,
-        "soal": "Hewan yang memiliki kulit berwarna coklat-hitam?",
-        "jawaban": "Beruang"
+        "index": 239,
+        "soal": "Apa simbol kimia dari emas?",
+        "jawaban": "Au"
     },
     {
-        "index": 178,
-        "soal": "Negara dengan bendera merah dan putih berlambang matahari?",
-        "jawaban": "Jepang"
+        "index": 240,
+        "soal": "Siapa penulis naskah proklamasi kemerdekaan Indonesia?",
+        "jawaban": "Achmad Soebardjo"
     },
     {
-        "index": 179,
-        "soal": "Penemu mesin uap pertama?",
-        "jawaban": "Thomas Newcomen"
+        "index": 241,
+        "soal": "Nama ilmiah dari pohon kelapa?",
+        "jawaban": "Cocos nucifera"
     },
     {
-        "index": 180,
-        "soal": "Satuan dasar panjang dalam sistem internasional?",
-        "jawaban": "Meter"
+        "index": 242,
+        "soal": "Gunung berapi tertinggi di Indonesia?",
+        "jawaban": "Gunung Kerinci"
     },
     {
-        "index": 181,
-        "soal": "Ibukota negara Italia?",
-        "jawaban": "Roma"
+        "index": 243,
+        "soal": "Ibu kota negara Argentina?",
+        "jawaban": "Buenos Aires"
     },
     {
-        "index": 182,
-        "soal": "Hasil dari 130 × 2 - 100?",
-        "jawaban": "160"
+        "index": 244,
+        "soal": "Berapakah jumlah provinsi di Indonesia saat ini?",
+        "jawaban": "38"
     },
     {
-        "index": 183,
-        "soal": "Hewan yang memiliki kulit berwarna hijau?",
-        "jawaban": "Katak"
-    },
-    {
-        "index": 184,
-        "soal": "Negara dengan julukan 'Negeri Gajah Putih'?",
-        "jawaban": "Thailand"
-    },
-    {
-        "index": 185,
-        "soal": "Penemu teori relativitas khusus?",
+        "index": 245,
+        "soal": "Siapa ilmuwan yang mencetuskan teori relativitas?",
         "jawaban": "Albert Einstein"
     },
     {
-        "index": 186,
-        "soal": "Ibukota provinsi Nusa Tenggara Barat?",
-        "jawaban": "Mataram"
+        "index": 246,
+        "soal": "Siapa pelukis terkenal dari Spanyol yang melukis 'Guernica'?",
+        "jawaban": "Pablo Picasso"
     },
     {
-        "index": 187,
-        "soal": "Hasil dari 140 × 3 ÷ 7?",
+        "index": 247,
+        "soal": "Negara dengan populasi terbanyak di dunia?",
+        "jawaban": "China"
+    },
+    {
+        "index": 248,
+        "soal": "Ibukota negara Vietnam?",
+        "jawaban": "Hanoi"
+    },
+    {
+        "index": 249,
+        "soal": "Berapa sisi yang dimiliki segi delapan?",
+        "jawaban": "8"
+    },
+    {
+        "index": 250,
+        "soal": "Zodiak bagi orang yang lahir pada 14 Februari?",
+        "jawaban": "Aquarius"
+    },
+    {
+        "index": 251,
+        "soal": "Negara yang memiliki Menara Eiffel?",
+        "jawaban": "Prancis"
+    },
+    {
+        "index": 252,
+        "soal": "Apa mata uang resmi Jepang?",
+        "jawaban": "Yen"
+    },
+    {
+        "index": 253,
+        "soal": "Siapakah yang menciptakan hukum gravitasi?",
+        "jawaban": "Isaac Newton"
+    },
+    {
+        "index": 254,
+        "soal": "Negara mana yang terkenal dengan Tembok Besarnya?",
+        "jawaban": "China"
+    },
+    {
+        "index": 255,
+        "soal": "Apa kepanjangan dari CPU dalam komputer?",
+        "jawaban": "Central Processing Unit"
+    },
+    {
+        "index": 256,
+        "soal": "Apa nama laut yang membatasi Indonesia dan Australia?",
+        "jawaban": "Laut Timor"
+    },
+    {
+        "index": 257,
+        "soal": "Siapa penulis novel 'Harry Potter'?",
+        "jawaban": "J.K. Rowling"
+    },
+    {
+        "index": 258,
+        "soal": "Berapakah hasil dari 15 × 4?",
         "jawaban": "60"
     },
     {
-        "index": 188,
-        "soal": "Planet dengan satelit alami terbesar?",
-        "jawaban": "Bumi"
+        "index": 259,
+        "soal": "Apa nama ibu kota Thailand?",
+        "jawaban": "Bangkok"
     },
     {
-        "index": 189,
-        "soal": "Penulis 'Cinta di Dalam Gelas'?",
-        "jawaban": "Andrea Hirata"
+        "index": 260,
+        "soal": "Siapa penemu telepon?",
+        "jawaban": "Alexander Graham Bell"
     },
     {
-        "index": 190,
-        "soal": "Zat yang membuat udara kering?",
-        "jawaban": "Nitrogen"
+        "index": 261,
+        "soal": "Berapa jumlah planet di tata surya?",
+        "jawaban": "8"
     },
     {
-        "index": 191,
-        "soal": "Ibukota negara Spanyol?",
-        "jawaban": "Madrid"
+        "index": 262,
+        "soal": "Apa simbol kimia dari air?",
+        "jawaban": "H2O"
     },
     {
-        "index": 192,
-        "soal": "Hasil dari 150 × 2 ÷ 5?",
-        "jawaban": "60"
+        "index": 263,
+        "soal": "Apa nama ibukota Australia?",
+        "jawaban": "Canberra"
     },
     {
-        "index": 193,
-        "soal": "Hewan yang memiliki kulit berwarna biru?",
-        "jawaban": "Burung biru"
+        "index": 264,
+        "soal": "Siapa yang disebut sebagai Bapak Proklamator Indonesia?",
+        "jawaban": "Soekarno dan Mohammad Hatta"
     },
     {
-        "index": 194,
-        "soal": "Negara dengan bendera merah dan putih berlambang bintang dan bulan sabit?",
-        "jawaban": "Malaysia"
+        "index": 265,
+        "soal": "Berapa jumlah tulang pada tubuh manusia dewasa?",
+        "jawaban": "206"
     },
     {
-        "index": 195,
-        "soal": "Penemu mesin uap pertama?",
-        "jawaban": "Thomas Newcomen"
+        "index": 266,
+        "soal": "Siapa raja pertama Majapahit?",
+        "jawaban": "Raden Wijaya"
     },
     {
-        "index": 196,
-        "soal": "Satuan dasar massa dalam sistem internasional?",
-        "jawaban": "Kilogram"
+        "index": 267,
+        "soal": "Apa satwa khas dari Australia yang suka melompat?",
+        "jawaban": "Kanguru"
     },
     {
-        "index": 197,
-        "soal": "Ibukota negara Yunani?",
+        "index": 268,
+        "soal": "Lambang unsur kimia dari besi?",
+        "jawaban": "Fe"
+    },
+    {
+        "index": 269,
+        "soal": "Siapa penemu radio?",
+        "jawaban": "Guglielmo Marconi"
+    },
+    {
+        "index": 270,
+        "soal": "Berapa jumlah huruf dalam alfabet Indonesia?",
+        "jawaban": "26"
+    },
+    {
+        "index": 271,
+        "soal": "Benua terbesar di dunia?",
+        "jawaban": "Asia"
+    },
+    {
+        "index": 272,
+        "soal": "Hewan apa yang dikenal sebagai raja hutan?",
+        "jawaban": "Singa"
+    },
+    {
+        "index": 273,
+        "soal": "Siapa presiden pertama Amerika Serikat?",
+        "jawaban": "George Washington"
+    },
+    {
+        "index": 274,
+        "soal": "Apa ibukota Italia?",
+        "jawaban": "Roma"
+    },
+    {
+        "index": 275,
+        "soal": "Siapa yang pertama kali mengelilingi dunia?",
+        "jawaban": "Ferdinand Magellan"
+    },
+    {
+        "index": 300,
+        "soal": "Apa nama alat untuk mengukur gempa bumi?",
+        "jawaban": "Seismograf"
+    },
+    {
+        "index": 301,
+        "soal": "Siapa penulis novel '1984'?",
+        "jawaban": "George Orwell"
+    },
+    {
+        "index": 302,
+        "soal": "Siapa ilmuwan yang menemukan vaksin rabies?",
+        "jawaban": "Louis Pasteur"
+    },
+    {
+        "index": 303,
+        "soal": "Nama ibu kota Korea Selatan?",
+        "jawaban": "Seoul"
+    },
+    {
+        "index": 304,
+        "soal": "Nama samurai legendaris Jepang yang menulis 'The Book of Five Rings'?",
+        "jawaban": "Miyamoto Musashi"
+    },
+    {
+        "index": 305,
+        "soal": "Satuan yang digunakan untuk mengukur frekuensi?",
+        "jawaban": "Hertz"
+    },
+    {
+        "index": 306,
+        "soal": "Negara mana yang terkenal dengan piramida Giza?",
+        "jawaban": "Mesir"
+    },
+    {
+        "index": 307,
+        "soal": "Siapa penemu mesin cetak?",
+        "jawaban": "Johannes Gutenberg"
+    },
+    {
+        "index": 308,
+        "soal": "Apa sebutan mata uang Korea Selatan?",
+        "jawaban": "Won"
+    },
+    {
+        "index": 309,
+        "soal": "Apa nama gunung tertinggi di dunia?",
+        "jawaban": "Gunung Everest"
+    },
+    {
+        "index": 310,
+        "soal": "Negara dengan jumlah pulau terbanyak di dunia?",
+        "jawaban": "Swedia"
+    },
+    {
+        "index": 311,
+        "soal": "Siapa pencipta karakter Sherlock Holmes?",
+        "jawaban": "Arthur Conan Doyle"
+    },
+    {
+        "index": 312,
+        "soal": "Apa nama ilmiah dari harimau?",
+        "jawaban": "Panthera tigris"
+    },
+    {
+        "index": 313,
+        "soal": "Berapakah hasil dari 144 ÷ 12?",
+        "jawaban": "12"
+    },
+    {
+        "index": 314,
+        "soal": "Siapa dewa utama dalam mitologi Yunani?",
+        "jawaban": "Zeus"
+    },
+    {
+        "index": 315,
+        "soal": "Apa ibu kota Brasil?",
+        "jawaban": "Brasília"
+    },
+    {
+        "index": 316,
+        "soal": "Siapa musisi yang dijuluki 'King of Pop'?",
+        "jawaban": "Michael Jackson"
+    },
+    {
+        "index": 317,
+        "soal": "Nama ilmiah dari pohon karet?",
+        "jawaban": "Hevea brasiliensis"
+    },
+    {
+        "index": 318,
+        "soal": "Apa nama benua terkecil di dunia?",
+        "jawaban": "Australia"
+    },
+    {
+        "index": 319,
+        "soal": "Siapa penemu pesawat terbang?",
+        "jawaban": "Wright bersaudara"
+    },
+    {
+        "index": 320,
+        "soal": "Berapa jumlah warna dalam pelangi?",
+        "jawaban": "7"
+    },
+    {
+        "index": 321,
+        "soal": "Siapa presiden Indonesia ke-3?",
+        "jawaban": "B.J. Habibie"
+    },
+    {
+        "index": 322,
+        "soal": "Apa bahasa resmi di Brasil?",
+        "jawaban": "Portugis"
+    },
+    {
+        "index": 323,
+        "soal": "Apa nama candi Hindu terbesar di Indonesia?",
+        "jawaban": "Candi Prambanan"
+    },
+    {
+        "index": 324,
+        "soal": "Apa nama sungai terpanjang di Indonesia?",
+        "jawaban": "Sungai Kapuas"
+    },
+    {
+        "index": 325,
+        "soal": "Siapa penulis buku 'The Origin of Species'?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 326,
+        "soal": "Nama raja terakhir Majapahit?",
+        "jawaban": "Brawijaya V"
+    },
+    {
+        "index": 327,
+        "soal": "Apa nama laut terbesar di dunia?",
+        "jawaban": "Samudra Pasifik"
+    },
+    {
+        "index": 328,
+        "soal": "Siapa penemu bola basket?",
+        "jawaban": "James Naismith"
+    },
+    {
+        "index": 329,
+        "soal": "Apa satuan dari hambatan listrik?",
+        "jawaban": "Ohm"
+    },
+    {
+        "index": 330,
+        "soal": "Berapa jumlah pemain dalam satu tim sepak bola?",
+        "jawaban": "11"
+    },
+    {
+        "index": 331,
+        "soal": "Apa nama gas yang kita hirup untuk bernapas?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 332,
+        "soal": "Apa nama kerajaan pertama di Indonesia?",
+        "jawaban": "Kerajaan Kutai"
+    },
+    {
+        "index": 333,
+        "soal": "Apa nama ibu kota Arab Saudi?",
+        "jawaban": "Riyadh"
+    },
+    {
+        "index": 334,
+        "soal": "Apa nama hewan yang bisa hidup di air dan darat?",
+        "jawaban": "Amfibi"
+    },
+    {
+        "index": 335,
+        "soal": "Siapa penulis novel 'To Kill a Mockingbird'?",
+        "jawaban": "Harper Lee"
+    },
+    {
+        "index": 336,
+        "soal": "Siapa dewa perang dalam mitologi Romawi?",
+        "jawaban": "Mars"
+    },
+    {
+        "index": 337,
+        "soal": "Negara mana yang memiliki mata uang Rupee selain India?",
+        "jawaban": "Indonesia (sebelum Rupiah)"
+    },
+    {
+        "index": 338,
+        "soal": "Apa nama elemen dengan simbol 'Na'?",
+        "jawaban": "Natrium"
+    },
+    {
+        "index": 339,
+        "soal": "Negara mana yang terkenal dengan menara miring Pisa?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 340,
+        "soal": "Siapa pelukis terkenal dari Belanda yang melukis 'The Starry Night'?",
+        "jawaban": "Vincent van Gogh"
+    },
+    {
+        "index": 341,
+        "soal": "Apa nama zat yang membuat cabai terasa pedas?",
+        "jawaban": "Capsaicin"
+    },
+    {
+        "index": 342,
+        "soal": "Siapa presiden pertama Uni Soviet?",
+        "jawaban": "Vladimir Lenin"
+    },
+    {
+        "index": 343,
+        "soal": "Siapa penulis novel 'Pride and Prejudice'?",
+        "jawaban": "Jane Austen"
+    },
+    {
+        "index": 344,
+        "soal": "Apa nama lapisan gas yang melindungi bumi dari radiasi UV?",
+        "jawaban": "Ozon"
+    },
+    {
+        "index": 345,
+        "soal": "Siapa penulis 'The Hobbit' dan 'The Lord of the Rings'?",
+        "jawaban": "J.R.R. Tolkien"
+    },
+    {
+        "index": 346,
+        "soal": "Negara mana yang terkenal dengan Tembok Hadrian?",
+        "jawaban": "Inggris"
+    },
+    {
+        "index": 347,
+        "soal": "Siapa presiden pertama Turki?",
+        "jawaban": "Mustafa Kemal Atatürk"
+    },
+    {
+        "index": 348,
+        "soal": "Berapa jumlah kromosom manusia?",
+        "jawaban": "46"
+    },
+    {
+        "index": 349,
+        "soal": "Apa nama candi Buddha terbesar di dunia?",
+        "jawaban": "Borobudur"
+    },
+    {
+        "index": 350,
+        "soal": "Siapa penemu sinar-X?",
+        "jawaban": "Wilhelm Röntgen"
+    },
+    {
+        "index": 351,
+        "soal": "Siapa pendiri Microsoft?",
+        "jawaban": "Bill Gates dan Paul Allen"
+    },
+    {
+        "index": 352,
+        "soal": "Apa nama ibukota Norwegia?",
+        "jawaban": "Oslo"
+    },
+    {
+        "index": 353,
+        "soal": "Siapa pencipta karakter Mickey Mouse?",
+        "jawaban": "Walt Disney"
+    },
+    {
+        "index": 354,
+        "soal": "Berapakah jumlah bintang dalam bendera Amerika Serikat?",
+        "jawaban": "50"
+    },
+    {
+        "index": 355,
+        "soal": "Apa nama ilmiah dari panda raksasa?",
+        "jawaban": "Ailuropoda melanoleuca"
+    },
+    {
+        "index": 356,
+        "soal": "Gunung tertinggi di Jepang?",
+        "jawaban": "Gunung Fuji"
+    },
+    {
+        "index": 357,
+        "soal": "Siapa penulis novel 'Don Quixote'?",
+        "jawaban": "Miguel de Cervantes"
+    },
+    {
+        "index": 358,
+        "soal": "Apa mata uang resmi Inggris?",
+        "jawaban": "Pound Sterling"
+    },
+    {
+        "index": 359,
+        "soal": "Apa nama candi Hindu terbesar di dunia?",
+        "jawaban": "Angkor Wat"
+    },
+    {
+        "index": 360,
+        "soal": "Apa simbol kimia dari karbon?",
+        "jawaban": "C"
+    },
+    {
+        "index": 361,
+        "soal": "Siapa raja yang memimpin Perang Salib Ketiga dari Inggris?",
+        "jawaban": "Richard the Lionheart"
+    },
+    {
+        "index": 362,
+        "soal": "Negara mana yang dijuluki 'Negeri Seribu Danau'?",
+        "jawaban": "Finlandia"
+    },
+    {
+        "index": 363,
+        "soal": "Siapa penemu lampu neon?",
+        "jawaban": "Georges Claude"
+    },
+    {
+        "index": 364,
+        "soal": "Apa ibu kota Uni Emirat Arab?",
+        "jawaban": "Abu Dhabi"
+    },
+    {
+        "index": 365,
+        "soal": "Siapa yang pertama kali menciptakan konsep angka nol?",
+        "jawaban": "Matematikawan India"
+    },
+    {
+        "index": 366,
+        "soal": "Apa nama ilmiah dari kucing domestik?",
+        "jawaban": "Felis catus"
+    },
+    {
+        "index": 367,
+        "soal": "Berapa jumlah pemain dalam satu tim bola basket?",
+        "jawaban": "5"
+    },
+    {
+        "index": 368,
+        "soal": "Siapa penemu hukum perbandingan tetap dalam kimia?",
+        "jawaban": "Joseph Proust"
+    },
+    {
+        "index": 369,
+        "soal": "Negara mana yang memiliki bendera dengan gambar daun maple?",
+        "jawaban": "Kanada"
+    },
+    {
+        "index": 370,
+        "soal": "Siapa pemimpin Uni Soviet selama Perang Dunia II?",
+        "jawaban": "Joseph Stalin"
+    },
+    {
+        "index": 371,
+        "soal": "Apa nama sungai yang membelah kota London?",
+        "jawaban": "Sungai Thames"
+    },
+    {
+        "index": 372,
+        "soal": "Apa nama unsur dengan simbol 'K'?",
+        "jawaban": "Kalium"
+    },
+    {
+        "index": 373,
+        "soal": "Siapa ilmuwan yang menemukan hukum tekanan hidrostatis?",
+        "jawaban": "Blaise Pascal"
+    },
+    {
+        "index": 374,
+        "soal": "Apa nama alat musik khas Jepang yang memiliki tiga senar?",
+        "jawaban": "Shamisen"
+    },
+    {
+        "index": 375,
+        "soal": "Apa nama ilmiah dari singa?",
+        "jawaban": "Panthera leo"
+    },
+    {
+        "index": 376,
+        "soal": "Apa nama planet yang memiliki cincin paling mencolok?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 377,
+        "soal": "Siapa penulis novel 'The Great Gatsby'?",
+        "jawaban": "F. Scott Fitzgerald"
+    },
+    {
+        "index": 378,
+        "soal": "Negara mana yang terkenal dengan olahraga sumo?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 379,
+        "soal": "Siapa pencipta karakter Spider-Man?",
+        "jawaban": "Stan Lee dan Steve Ditko"
+    },
+    {
+        "index": 380,
+        "soal": "Berapa jumlah kromosom pada kucing?",
+        "jawaban": "38"
+    },
+    {
+        "index": 381,
+        "soal": "Apa nama bahasa resmi di Mesir?",
+        "jawaban": "Arab"
+    },
+    {
+        "index": 382,
+        "soal": "Siapa pelukis terkenal dari Italia yang melukis 'Mona Lisa'?",
+        "jawaban": "Leonardo da Vinci"
+    },
+    {
+        "index": 383,
+        "soal": "Apa ibu kota Selandia Baru?",
+        "jawaban": "Wellington"
+    },
+    {
+        "index": 384,
+        "soal": "Siapa pendiri Tesla, Inc.?",
+        "jawaban": "Elon Musk"
+    },
+    {
+        "index": 385,
+        "soal": "Berapa jumlah sudut pada segitiga?",
+        "jawaban": "3"
+    },
+    {
+        "index": 386,
+        "soal": "Negara mana yang memiliki bendera berwarna merah dengan lingkaran putih di tengahnya?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 387,
+        "soal": "Apa nama ibu kota Yunani?",
         "jawaban": "Athena"
     },
     {
-        "index": 198,
-        "soal": "Hasil dari 160 × 2 - 120?",
-        "jawaban": "200"
+        "index": 388,
+        "soal": "Siapa ilmuwan yang menemukan radioaktivitas?",
+        "jawaban": "Henri Becquerel"
     },
     {
-        "index": 199,
-        "soal": "Hewan yang memiliki kulit berwarna merah?",
-        "jawaban": "Kepiting"
+        "index": 389,
+        "soal": "Berapa jumlah provinsi di Kanada?",
+        "jawaban": "10"
     },
     {
-        "index": 200,
-        "soal": "Negara dengan julukan 'Negeri Tulip'?",
+        "index": 390,
+        "soal": "Siapa yang menulis buku 'The Art of War'?",
+        "jawaban": "Sun Tzu"
+    },
+    {
+        "index": 391,
+        "soal": "Apa nama planet terdekat dengan Matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 392,
+        "soal": "Negara mana yang terkenal dengan tarian flamenco?",
+        "jawaban": "Spanyol"
+    },
+    {
+        "index": 393,
+        "soal": "Siapa penulis novel 'Frankenstein'?",
+        "jawaban": "Mary Shelley"
+    },
+    {
+        "index": 394,
+        "soal": "Apa nama alat yang digunakan untuk mengukur tekanan udara?",
+        "jawaban": "Barometer"
+    },
+    {
+        "index": 395,
+        "soal": "Apa nama unsur dengan simbol 'Ag'?",
+        "jawaban": "Perak"
+    },
+    {
+        "index": 396,
+        "soal": "Siapa ilmuwan yang menemukan penisilin?",
+        "jawaban": "Alexander Fleming"
+    },
+    {
+        "index": 397,
+        "soal": "Negara mana yang memiliki Colosseum?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 398,
+        "soal": "Siapa presiden pertama Afrika Selatan setelah apartheid?",
+        "jawaban": "Nelson Mandela"
+    },
+    {
+        "index": 399,
+        "soal": "Apa nama ibukota Rusia?",
+        "jawaban": "Moskow"
+    },
+    {
+        "index": 400,
+        "soal": "Apa unsur paling melimpah di atmosfer bumi?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 401,
+        "soal": "Siapa ilmuwan yang mengembangkan teori relativitas?",
+        "jawaban": "Albert Einstein"
+    },
+    {
+        "index": 402,
+        "soal": "Apa nama alat musik khas Australia yang terbuat dari kayu?",
+        "jawaban": "Didgeridoo"
+    },
+    {
+        "index": 403,
+        "soal": "Apa nama ibu kota Kanada?",
+        "jawaban": "Ottawa"
+    },
+    {
+        "index": 404,
+        "soal": "Siapa penulis novel 'Harry Potter'?",
+        "jawaban": "J.K. Rowling"
+    },
+    {
+        "index": 405,
+        "soal": "Apa nama sungai terpanjang di dunia?",
+        "jawaban": "Sungai Nil"
+    },
+    {
+        "index": 406,
+        "soal": "Siapa pendiri perusahaan Apple?",
+        "jawaban": "Steve Jobs, Steve Wozniak, Ronald Wayne"
+    },
+    {
+        "index": 407,
+        "soal": "Apa nama zat yang memberi warna hijau pada daun?",
+        "jawaban": "Klorofil"
+    },
+    {
+        "index": 408,
+        "soal": "Apa ibu kota Thailand?",
+        "jawaban": "Bangkok"
+    },
+    {
+        "index": 409,
+        "soal": "Siapa penulis 'Romeo and Juliet'?",
+        "jawaban": "William Shakespeare"
+    },
+    {
+        "index": 410,
+        "soal": "Negara mana yang terkenal dengan makanan sushi?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 411,
+        "soal": "Apa nama unsur dengan simbol 'Fe'?",
+        "jawaban": "Besi"
+    },
+    {
+        "index": 412,
+        "soal": "Apa nama ibukota Prancis?",
+        "jawaban": "Paris"
+    },
+    {
+        "index": 413,
+        "soal": "Berapa jumlah tulang pada manusia dewasa?",
+        "jawaban": "206"
+    },
+    {
+        "index": 414,
+        "soal": "Siapa yang menemukan gaya gravitasi?",
+        "jawaban": "Isaac Newton"
+    },
+    {
+        "index": 415,
+        "soal": "Apa nama laut yang terletak antara Eropa dan Afrika?",
+        "jawaban": "Laut Mediterania"
+    },
+    {
+        "index": 416,
+        "soal": "Siapa pendiri Facebook?",
+        "jawaban": "Mark Zuckerberg"
+    },
+    {
+        "index": 417,
+        "soal": "Apa mata uang resmi Tiongkok?",
+        "jawaban": "Yuan"
+    },
+    {
+        "index": 418,
+        "soal": "Negara mana yang memiliki gunung berapi aktif bernama Vesuvius?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 419,
+        "soal": "Siapa penemu teori evolusi melalui seleksi alam?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 420,
+        "soal": "Apa nama gas yang paling banyak di atmosfer bumi?",
+        "jawaban": "Nitrogen"
+    },
+    {
+        "index": 421,
+        "soal": "Apa ibukota Jerman?",
+        "jawaban": "Berlin"
+    },
+    {
+        "index": 422,
+        "soal": "Siapa presiden pertama Amerika Serikat?",
+        "jawaban": "George Washington"
+    },
+    {
+        "index": 423,
+        "soal": "Apa nama pulau terbesar di dunia?",
+        "jawaban": "Greenland"
+    },
+    {
+        "index": 424,
+        "soal": "Siapa penulis novel 'The Catcher in the Rye'?",
+        "jawaban": "J.D. Salinger"
+    },
+    {
+        "index": 425,
+        "soal": "Negara mana yang memiliki piramida tertua?",
+        "jawaban": "Mesir"
+    },
+    {
+        "index": 426,
+        "soal": "Apa nama satelit alami Bumi?",
+        "jawaban": "Bulan"
+    },
+    {
+        "index": 427,
+        "soal": "Siapa presiden pertama Indonesia?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 428,
+        "soal": "Apa nama unsur dengan simbol 'Au'?",
+        "jawaban": "Emas"
+    },
+    {
+        "index": 429,
+        "soal": "Apa nama ibu kota India?",
+        "jawaban": "New Delhi"
+    },
+    {
+        "index": 430,
+        "soal": "Siapa penemu bola lampu pijar?",
+        "jawaban": "Thomas Edison"
+    },
+    {
+        "index": 431,
+        "soal": "Negara mana yang dikenal sebagai 'Negeri Tirai Bambu'?",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "index": 432,
+        "soal": "Apa nama planet terbesar di tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 433,
+        "soal": "Siapa penulis novel 'Moby-Dick'?",
+        "jawaban": "Herman Melville"
+    },
+    {
+        "index": 434,
+        "soal": "Apa nama alat musik khas Indonesia yang dipukul dengan palu kecil?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 435,
+        "soal": "Siapa yang pertama kali menginjakkan kaki di Bulan?",
+        "jawaban": "Neil Armstrong"
+    },
+    {
+        "index": 436,
+        "soal": "Apa nama burung yang menjadi simbol perdamaian?",
+        "jawaban": "Merpati"
+    },
+    {
+        "index": 437,
+        "soal": "Apa nama zat yang digunakan untuk membuat kaca?",
+        "jawaban": "Pasir silika"
+    },
+    {
+        "index": 438,
+        "soal": "Siapa penulis buku 'War and Peace'?",
+        "jawaban": "Leo Tolstoy"
+    },
+    {
+        "index": 439,
+        "soal": "Negara mana yang dikenal dengan Menara Eiffel?",
+        "jawaban": "Prancis"
+    },
+    {
+        "index": 440,
+        "soal": "Apa nama gunung tertinggi di Indonesia?",
+        "jawaban": "Puncak Jaya"
+    },
+    {
+        "index": 441,
+        "soal": "Apa nama suku asli yang tinggal di Australia?",
+        "jawaban": "Aborigin"
+    },
+    {
+        "index": 442,
+        "soal": "Siapa yang pertama kali menemukan Amerika?",
+        "jawaban": "Christopher Columbus"
+    },
+    {
+        "index": 443,
+        "soal": "Apa nama lautan yang membentang di sekitar Antartika?",
+        "jawaban": "Lautan Selatan"
+    },
+    {
+        "index": 444,
+        "soal": "Apa nama unsur dengan simbol 'O'?",
+        "jawaban": "Oksigen"
+    },
+    {
+        "index": 445,
+        "soal": "Apa nama alat untuk mengukur kecepatan angin?",
+        "jawaban": "Anemometer"
+    },
+    {
+        "index": 446,
+        "soal": "Siapa yang menciptakan karakter Batman?",
+        "jawaban": "Bob Kane dan Bill Finger"
+    },
+    {
+        "index": 447,
+        "soal": "Apa nama planet yang paling dekat dengan Matahari?",
+        "jawaban": "Merkurius"
+    },
+    {
+        "index": 448,
+        "soal": "Negara mana yang memiliki hutan hujan terbesar di dunia?",
+        "jawaban": "Brasil"
+    },
+    {
+        "index": 449,
+        "soal": "Siapa yang menemukan hukum Archimedes?",
+        "jawaban": "Archimedes"
+    },
+    [
+    {
+        "index": 450,
+        "soal": "Apa nama ibukota Korea Selatan?",
+        "jawaban": "Seoul"
+    },
+    {
+        "index": 451,
+        "soal": "Siapa penulis buku '1984'?",
+        "jawaban": "George Orwell"
+    },
+    {
+        "index": 452,
+        "soal": "Apa nama alat musik yang dimainkan dengan cara digesek?",
+        "jawaban": "Biola"
+    },
+    {
+        "index": 453,
+        "soal": "Siapa penemu mesin uap yang efisien?",
+        "jawaban": "James Watt"
+    },
+    {
+        "index": 454,
+        "soal": "Apa nama zat yang membuat cabai terasa pedas?",
+        "jawaban": "Capsaicin"
+    },
+    {
+        "index": 455,
+        "soal": "Negara mana yang berbatasan langsung dengan Argentina di sebelah utara?",
+        "jawaban": "Bolivia dan Paraguay"
+    },
+    {
+        "index": 456,
+        "soal": "Apa nama gunung tertinggi di dunia?",
+        "jawaban": "Gunung Everest"
+    },
+    {
+        "index": 457,
+        "soal": "Siapa presiden pertama Amerika Serikat yang mengundurkan diri dari jabatannya?",
+        "jawaban": "Richard Nixon"
+    },
+    {
+        "index": 458,
+        "soal": "Apa simbol kimia dari perak?",
+        "jawaban": "Ag"
+    },
+    {
+        "index": 459,
+        "soal": "Siapa ilmuwan yang menemukan hukum gerak tiga Newton?",
+        "jawaban": "Isaac Newton"
+    },
+    {
+        "index": 460,
+        "soal": "Negara mana yang memiliki ibu kota bernama Reykjavik?",
+        "jawaban": "Islandia"
+    },
+    {
+        "index": 461,
+        "soal": "Apa nama sungai terpanjang di Amerika Selatan?",
+        "jawaban": "Sungai Amazon"
+    },
+    {
+        "index": 462,
+        "soal": "Siapa yang menciptakan karakter Sherlock Holmes?",
+        "jawaban": "Arthur Conan Doyle"
+    },
+    {
+        "index": 463,
+        "soal": "Apa nama samudra terbesar di dunia?",
+        "jawaban": "Samudra Pasifik"
+    },
+    {
+        "index": 464,
+        "soal": "Apa nama logam yang paling ringan?",
+        "jawaban": "Litium"
+    },
+    {
+        "index": 465,
+        "soal": "Negara mana yang memiliki Menara Pisa?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 466,
+        "soal": "Apa mata uang resmi Jepang?",
+        "jawaban": "Yen"
+    },
+    {
+        "index": 467,
+        "soal": "Siapa penemu hukum kekekalan massa?",
+        "jawaban": "Antoine Lavoisier"
+    },
+    {
+        "index": 468,
+        "soal": "Apa nama ibu kota Australia?",
+        "jawaban": "Canberra"
+    },
+    {
+        "index": 469,
+        "soal": "Apa nama benua yang memiliki populasi paling sedikit?",
+        "jawaban": "Antartika"
+    },
+    {
+        "index": 470,
+        "soal": "Siapa pencipta karakter Superman?",
+        "jawaban": "Jerry Siegel dan Joe Shuster"
+    },
+    {
+        "index": 471,
+        "soal": "Negara mana yang memiliki Great Wall?",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "index": 472,
+        "soal": "Apa nama planet yang memiliki rotasi terpanjang?",
+        "jawaban": "Venus"
+    },
+    {
+        "index": 473,
+        "soal": "Siapa yang menciptakan hukum permintaan dan penawaran?",
+        "jawaban": "Adam Smith"
+    },
+    {
+        "index": 474,
+        "soal": "Negara mana yang terkenal dengan tarian tango?",
+        "jawaban": "Argentina"
+    },
+    {
+        "index": 475,
+        "soal": "Apa nama gas mulia dengan nomor atom 10?",
+        "jawaban": "Neon"
+    },
+    {
+        "index": 476,
+        "soal": "Apa nama sistem pemerintahan di mana raja memiliki kekuasaan absolut?",
+        "jawaban": "Monarki absolut"
+    },
+    {
+        "index": 477,
+        "soal": "Siapa penulis novel 'Pride and Prejudice'?",
+        "jawaban": "Jane Austen"
+    },
+    {
+        "index": 478,
+        "soal": "Apa nama negara dengan jumlah populasi terbanyak di dunia?",
+        "jawaban": "Tiongkok"
+    },
+    {
+        "index": 479,
+        "soal": "Apa nama ibukota Vietnam?",
+        "jawaban": "Hanoi"
+    },
+    {
+        "index": 480,
+        "soal": "Apa nama satelit alami terbesar di Tata Surya?",
+        "jawaban": "Ganymede"
+    },
+    {
+        "index": 481,
+        "soal": "Siapa yang menemukan hukum Boyle?",
+        "jawaban": "Robert Boyle"
+    },
+    {
+        "index": 482,
+        "soal": "Negara mana yang dikenal sebagai negeri Viking?",
+        "jawaban": "Norwegia"
+    },
+    {
+        "index": 483,
+        "soal": "Apa nama ibu kota Turki?",
+        "jawaban": "Ankara"
+    },
+    {
+        "index": 484,
+        "soal": "Siapa presiden pertama Filipina?",
+        "jawaban": "Emilio Aguinaldo"
+    },
+    {
+        "index": 485,
+        "soal": "Apa nama zat yang digunakan untuk membuat berlian?",
+        "jawaban": "Karbon"
+    },
+    {
+        "index": 486,
+        "soal": "Apa nama alat musik khas Skotlandia yang ditiup?",
+        "jawaban": "Bagpipe"
+    },
+    {
+        "index": 487,
+        "soal": "Negara mana yang memiliki bendera dengan warna merah dan putih secara horizontal?",
+        "jawaban": "Indonesia dan Monako"
+    },
+    {
+        "index": 488,
+        "soal": "Siapa ilmuwan yang menemukan gelombang elektromagnetik?",
+        "jawaban": "James Clerk Maxwell"
+    },
+    {
+        "index": 489,
+        "soal": "Apa nama ibu kota Afrika Selatan?",
+        "jawaban": "Pretoria (administratif), Cape Town (legislatif), Bloemfontein (yudikatif)"
+    },
+    {
+        "index": 490,
+        "soal": "Apa nama bahan utama dalam pembuatan kaca?",
+        "jawaban": "Pasir silika"
+    },
+    {
+        "index": 491,
+        "soal": "Apa nama sungai yang membelah kota New York?",
+        "jawaban": "Sungai Hudson"
+    },
+    {
+        "index": 492,
+        "soal": "Siapa yang menemukan teori relativitas umum?",
+        "jawaban": "Albert Einstein"
+    },
+    {
+        "index": 493,
+        "soal": "Apa nama ibukota Malaysia?",
+        "jawaban": "Kuala Lumpur"
+    },
+    {
+        "index": 494,
+        "soal": "Apa nama zat yang digunakan dalam baterai kering?",
+        "jawaban": "Zinc karbon"
+    },
+    {
+        "index": 495,
+        "soal": "Siapa yang menciptakan karakter Donald Duck?",
+        "jawaban": "Carl Barks"
+    },
+    {
+        "index": 496,
+        "soal": "Negara mana yang memiliki Tembok Berlin?",
+        "jawaban": "Jerman"
+    },
+    {
+        "index": 497,
+        "soal": "Apa nama logam yang terbaik dalam menghantarkan listrik?",
+        "jawaban": "Perak"
+    },
+    {
+        "index": 498,
+        "soal": "Apa nama ibu kota Portugal?",
+        "jawaban": "Lisbon"
+    },
+    {
+        "index": 499,
+        "soal": "Apa unsur utama dalam pembuatan baja?",
+        "jawaban": "Besi"
+    },
+    {
+        "index": 500,
+        "soal": "Apa nama satelit alami Mars?",
+        "jawaban": "Phobos dan Deimos"
+    },
+    {
+        "index": 501,
+        "soal": "Siapa tokoh yang dikenal sebagai Bapak Proklamasi Indonesia?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 502,
+        "soal": "Hewan apa yang dikenal sebagai mamalia terbesar di dunia?",
+        "jawaban": "Paus biru"
+    },
+    {
+        "index": 503,
+        "soal": "Apa nama ibu kota Brasil?",
+        "jawaban": "Brasilia"
+    },
+    {
+        "index": 504,
+        "soal": "Tari kecak berasal dari daerah mana?",
+        "jawaban": "Bali"
+    },
+    {
+        "index": 505,
+        "soal": "Siapa penulis kitab 'Sutasoma' yang berisi konsep Bhinneka Tunggal Ika?",
+        "jawaban": "Mpu Tantular"
+    },
+    {
+        "index": 506,
+        "soal": "Tumbuhan apa yang dikenal sebagai 'Raja Buah'?",
+        "jawaban": "Durian"
+    },
+    {
+        "index": 507,
+        "soal": "Negara mana yang dikenal dengan julukan 'Negeri Matahari Terbit'?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 508,
+        "soal": "Siapa tokoh yang menemukan teori heliosentrisme?",
+        "jawaban": "Nicolaus Copernicus"
+    },
+    {
+        "index": 509,
+        "soal": "Apa nama tarian tradisional dari Aceh yang melibatkan banyak penari?",
+        "jawaban": "Tari Saman"
+    },
+    {
+        "index": 510,
+        "soal": "Hewan apa yang dikenal dapat tidur sambil berdiri?",
+        "jawaban": "Kuda"
+    },
+    {
+        "index": 511,
+        "soal": "Apa nama sungai terpanjang di Indonesia?",
+        "jawaban": "Sungai Kapuas"
+    },
+    {
+        "index": 512,
+        "soal": "Siapa raja pertama Kerajaan Majapahit?",
+        "jawaban": "Raden Wijaya"
+    },
+    {
+        "index": 513,
+        "soal": "Negara mana yang memiliki piramida Chichen Itza?",
+        "jawaban": "Meksiko"
+    },
+    {
+        "index": 514,
+        "soal": "Apa nama planet yang memiliki cincin paling mencolok?",
+        "jawaban": "Saturnus"
+    },
+    {
+        "index": 515,
+        "soal": "Apa nama bunga nasional Jepang?",
+        "jawaban": "Sakura"
+    },
+    {
+        "index": 516,
+        "soal": "Siapa penemu telepon?",
+        "jawaban": "Alexander Graham Bell"
+    },
+    {
+        "index": 517,
+        "soal": "Gunung apa yang meletus dan menyebabkan hilangnya Kota Pompeii?",
+        "jawaban": "Gunung Vesuvius"
+    },
+    {
+        "index": 518,
+        "soal": "Apa nama ibukota Kanada?",
+        "jawaban": "Ottawa"
+    },
+    {
+        "index": 519,
+        "soal": "Hewan apa yang dikenal sebagai predator puncak di lautan?",
+        "jawaban": "Hiu putih besar"
+    },
+    {
+        "index": 520,
+        "soal": "Apa nama candi Buddha terbesar di dunia?",
+        "jawaban": "Candi Borobudur"
+    },
+    {
+        "index": 521,
+        "soal": "Siapa yang dijuluki sebagai Bapak Pendidikan Indonesia?",
+        "jawaban": "Ki Hajar Dewantara"
+    },
+    {
+        "index": 522,
+        "soal": "Negara mana yang dikenal dengan sistem kanal airnya di kota Venesia?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 523,
+        "soal": "Tumbuhan apa yang dikenal sebagai sumber utama oksigen di bumi?",
+        "jawaban": "Pohon"
+    },
+    {
+        "index": 524,
+        "soal": "Apa nama pulau terbesar di dunia yang bukan merupakan benua?",
+        "jawaban": "Greenland"
+    },
+    {
+        "index": 525,
+        "soal": "Siapa yang menulis novel 'To Kill a Mockingbird'?",
+        "jawaban": "Harper Lee"
+    },
+    {
+        "index": 526,
+        "soal": "Negara mana yang terkenal dengan Angkor Wat?",
+        "jawaban": "Kamboja"
+    },
+    {
+        "index": 527,
+        "soal": "Hewan apa yang bisa berubah warna untuk berkamuflase?",
+        "jawaban": "Bunglon"
+    },
+    {
+        "index": 528,
+        "soal": "Apa nama gunung tertinggi di Afrika?",
+        "jawaban": "Gunung Kilimanjaro"
+    },
+    {
+        "index": 529,
+        "soal": "Apa nama alat musik khas Minangkabau yang mirip seruling?",
+        "jawaban": "Saluang"
+    },
+    {
+        "index": 530,
+        "soal": "Siapa presiden Amerika Serikat selama Perang Dunia II?",
+        "jawaban": "Franklin D. Roosevelt"
+    },
+    {
+        "index": 531,
+        "soal": "Apa nama lautan yang terletak di antara Amerika dan Eropa?",
+        "jawaban": "Samudra Atlantik"
+    },
+    {
+        "index": 532,
+        "soal": "Negara mana yang memiliki Menara Eiffel?",
+        "jawaban": "Prancis"
+    },
+    {
+        "index": 533,
+        "soal": "Apa nama satwa langka khas Pulau Komodo?",
+        "jawaban": "Komodo"
+    },
+    {
+        "index": 534,
+        "soal": "Siapa yang menemukan vaksin pertama di dunia?",
+        "jawaban": "Edward Jenner"
+    },
+    {
+        "index": 535,
+        "soal": "Apa nama ibukota Rusia?",
+        "jawaban": "Moskow"
+    },
+    {
+        "index": 536,
+        "soal": "Hewan apa yang dikenal sebagai hewan paling lambat di dunia?",
+        "jawaban": "Kukang"
+    },
+    {
+        "index": 537,
+        "soal": "Apa nama benua yang memiliki jumlah negara terbanyak?",
+        "jawaban": "Afrika"
+    },
+    {
+        "index": 538,
+        "soal": "Siapa ilmuwan yang mengembangkan teori evolusi melalui seleksi alam?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 539,
+        "soal": "Apa nama alat musik tradisional Jawa yang dimainkan dengan cara dipukul?",
+        "jawaban": "Gamelan"
+    },
+    {
+        "index": 540,
+        "soal": "Negara mana yang terkenal dengan budaya Samurai?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 541,
+        "soal": "Apa nama sungai terpanjang di Eropa?",
+        "jawaban": "Sungai Volga"
+    },
+    {
+        "index": 542,
+        "soal": "Siapa penulis novel 'The Great Gatsby'?",
+        "jawaban": "F. Scott Fitzgerald"
+    },
+    {
+        "index": 543,
+        "soal": "Apa nama bangunan bersejarah yang menjadi makam Kaisar Qin Shi Huang?",
+        "jawaban": "Makam Terakota"
+    },
+    {
+        "index": 544,
+        "soal": "Apa nama tumbuhan yang digunakan untuk membuat kertas?",
+        "jawaban": "Pohon bambu dan pohon pinus"
+    },
+    {
+        "index": 545,
+        "soal": "Siapa yang menemukan listrik statis?",
+        "jawaban": "Benjamin Franklin"
+    },
+        [
+    {
+        "index": 546,
+        "soal": "Apa nama ilmuwan yang menemukan hukum gravitasi?",
+        "jawaban": "Isaac Newton"
+    },
+    {
+        "index": 547,
+        "soal": "Negara mana yang memiliki kota suci Mekah?",
+        "jawaban": "Arab Saudi"
+    },
+    {
+        "index": 548,
+        "soal": "Hewan apa yang dikenal sebagai simbol keberuntungan dalam budaya Tiongkok?",
+        "jawaban": "Naga"
+    },
+    {
+        "index": 549,
+        "soal": "Apa nama ibukota Thailand?",
+        "jawaban": "Bangkok"
+    },
+    {
+        "index": 550,
+        "soal": "Siapa yang menemukan sinar-X?",
+        "jawaban": "Wilhelm Röntgen"
+    },
+    {
+        "index": 551,
+        "soal": "Apa nama tarian tradisional khas Betawi?",
+        "jawaban": "Tari Topeng Betawi"
+    },
+    {
+        "index": 552,
+        "soal": "Negara mana yang memiliki gunung berapi tertinggi di dunia?",
+        "jawaban": "Chili (Gunung Ojos del Salado)"
+    },
+    {
+        "index": 553,
+        "soal": "Apa nama unsur kimia dengan simbol 'Au'?",
+        "jawaban": "Emas"
+    },
+    {
+        "index": 554,
+        "soal": "Siapa presiden pertama Indonesia?",
+        "jawaban": "Soekarno"
+    },
+    {
+        "index": 555,
+        "soal": "Apa nama burung nasional Amerika Serikat?",
+        "jawaban": "Elang botak"
+    },
+    {
+        "index": 556,
+        "soal": "Negara mana yang memiliki kota Roma?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 557,
+        "soal": "Siapa pelukis terkenal yang membuat lukisan 'Mona Lisa'?",
+        "jawaban": "Leonardo da Vinci"
+    },
+    {
+        "index": 558,
+        "soal": "Apa nama alat musik tradisional khas Sunda yang terbuat dari bambu?",
+        "jawaban": "Angklung"
+    },
+    {
+        "index": 559,
+        "soal": "Apa nama gunung tertinggi di Indonesia?",
+        "jawaban": "Gunung Jaya Wijaya"
+    },
+    {
+        "index": 560,
+        "soal": "Siapa penemu bola lampu?",
+        "jawaban": "Thomas Edison"
+    },
+    {
+        "index": 561,
+        "soal": "Negara mana yang memiliki menara tertinggi di dunia, Burj Khalifa?",
+        "jawaban": "Uni Emirat Arab"
+    },
+    {
+        "index": 562,
+        "soal": "Hewan apa yang dikenal bisa hidup di dua alam?",
+        "jawaban": "Amfibi (contoh: katak)"
+    },
+    {
+        "index": 563,
+        "soal": "Apa nama ibukota Mesir?",
+        "jawaban": "Kairo"
+    },
+    {
+        "index": 564,
+        "soal": "Siapa penulis novel 'Harry Potter'?",
+        "jawaban": "J.K. Rowling"
+    },
+    {
+        "index": 565,
+        "soal": "Apa nama danau terbesar di dunia?",
+        "jawaban": "Laut Kaspia"
+    },
+    {
+        "index": 566,
+        "soal": "Siapa pemimpin Revolusi Bolshevik di Rusia?",
+        "jawaban": "Vladimir Lenin"
+    },
+    {
+        "index": 567,
+        "soal": "Negara mana yang dikenal dengan julukan 'Negeri Kincir Angin'?",
         "jawaban": "Belanda"
+    },
+    {
+        "index": 568,
+        "soal": "Apa nama hewan mamalia yang mampu terbang?",
+        "jawaban": "Kelelawar"
+    },
+    {
+        "index": 569,
+        "soal": "Apa nama sungai terpanjang di dunia?",
+        "jawaban": "Sungai Nil"
+    },
+    {
+        "index": 570,
+        "soal": "Siapa yang menciptakan karakter Mickey Mouse?",
+        "jawaban": "Walt Disney"
+    },
+    {
+        "index": 571,
+        "soal": "Negara mana yang memiliki patung Liberty?",
+        "jawaban": "Amerika Serikat"
+    },
+    {
+        "index": 572,
+        "soal": "Hewan apa yang dikenal sebagai raja hutan?",
+        "jawaban": "Singa"
+    },
+    {
+        "index": 573,
+        "soal": "Apa nama ibukota Inggris?",
+        "jawaban": "London"
+    },
+    {
+        "index": 574,
+        "soal": "Siapa ilmuwan yang menemukan hukum termodinamika?",
+        "jawaban": "Sadi Carnot"
+    },
+    {
+        "index": 575,
+        "soal": "Apa nama olahraga yang menggunakan raket dan shuttlecock?",
+        "jawaban": "Badminton"
+    },
+    {
+        "index": 576,
+        "soal": "Negara mana yang memiliki Gunung Fuji?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 577,
+        "soal": "Apa nama satwa khas Australia yang memiliki kantung?",
+        "jawaban": "Kanguru"
+    },
+    {
+        "index": 578,
+        "soal": "Siapa ilmuwan yang menemukan hukum Archimedes?",
+        "jawaban": "Archimedes"
+    },
+    {
+        "index": 579,
+        "soal": "Apa nama danau terbesar di Indonesia?",
+        "jawaban": "Danau Toba"
+    },
+    {
+        "index": 580,
+        "soal": "Siapa penulis buku 'The Origin of Species'?",
+        "jawaban": "Charles Darwin"
+    },
+    {
+        "index": 581,
+        "soal": "Negara mana yang terkenal dengan makanan sushi?",
+        "jawaban": "Jepang"
+    },
+    {
+        "index": 582,
+        "soal": "Hewan apa yang memiliki belalai?",
+        "jawaban": "Gajah"
+    },
+    {
+        "index": 583,
+        "soal": "Apa nama laut yang membelah Eropa dan Afrika?",
+        "jawaban": "Laut Mediterania"
+    },
+    {
+        "index": 584,
+        "soal": "Siapa yang menemukan radio?",
+        "jawaban": "Guglielmo Marconi"
+    },
+    {
+        "index": 585,
+        "soal": "Apa nama ibukota Spanyol?",
+        "jawaban": "Madrid"
+    },
+    {
+        "index": 586,
+        "soal": "Apa nama mata uang Korea Selatan?",
+        "jawaban": "Won"
+    },
+    {
+        "index": 587,
+        "soal": "Negara mana yang memiliki Colosseum?",
+        "jawaban": "Italia"
+    },
+    {
+        "index": 588,
+        "soal": "Siapa yang menciptakan Facebook?",
+        "jawaban": "Mark Zuckerberg"
+    },
+    {
+        "index": 589,
+        "soal": "Apa nama gunung tertinggi di Amerika Utara?",
+        "jawaban": "Gunung Denali"
+    },
+    {
+        "index": 590,
+        "soal": "Siapa penemu pesawat terbang pertama?",
+        "jawaban": "Wright bersaudara"
+    },
+    {
+        "index": 591,
+        "soal": "Apa nama planet terbesar di tata surya?",
+        "jawaban": "Jupiter"
+    },
+    {
+        "index": 592,
+        "soal": "Siapa presiden pertama Amerika Serikat?",
+        "jawaban": "George Washington"
     }
 ]
